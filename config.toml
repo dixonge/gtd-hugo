@@ -1,0 +1,132 @@
+baseurl         = "https://glenn.thedixons.net"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Glenn 2.0"
+  subtitle    = "New! Improved! Retired!"
+  copyright   = "© 2019 Glenn E. Dixon"
+
+#  cover       = "img/blog-cover.jpg"
+#  description = "Here is a description of your site."
+  metaDescription = ""
+#  googleAnalytics = ""
+  customCSS = ["custom.css"]
+  RSSLink = ""
+
+  twitterName = "coyotejano"
+#  fbName = "fakeghost"
+  githubName = "dixonge"
+#  linkedinName = "eueung"
+#  mediumName = ""
+
+#  logo = "hugo-logo.png"
+#  orgName = "Glenn E. Dixon"
+#  orgWebsite = "https://www.telematika.org"
+#  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "Glenn E. Dixon"
+  authorAvatar = "images/2018/08/avatar-grouch.jpg"
+  authorLocation = "Zacatecas, Mexico"
+  authorWebsite = "https://glenn.thedixons.net"
+  authorDescription = "Retired I.T. nerd – Mexpat – vegan – atheist – aspirational writer, musician, genealogist"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "The Real Glenn"
+  url = "/the-real-glenn"
+  weight = 197
+
+[[menu.main]]
+  name = "Code Snippets"
+  url = "/code-snippets"
+  weight = 195
+  
+[[menu.main]]
+  name = "Posts"
+  url = "/tags/article/"
+  weight = 190
+
+[[menu.main]]
+  name = "Notes"
+  url = "/tags/note/"
+  weight = 189
+
+[[menu.main]]
+  name = "Replies"
+  url = "/tags/reply/"
+  weight = 188
+
+[[menu.main]]
+  name = "Pics"
+  url = "/tags/photo/"
+  weight = 187
+
+[[menu.main]]
+  name = "Vids"
+  url = "/tags/video/"
+  weight = 186
+
+[[menu.main]]
+  name = "Links"
+  url = "/tags/bookmark/"
+  weight = 185
+
+[[menu.main]]
+  name = "Check-ins"
+  url = "/tags/checkin/"
+  weight = 184
+
+[[menu.main]]
+  name = "Exercise"
+  url = "/tags/exercise/"
+  weight = 183
+
+[[menu.main]]
+  name = "Likes"
+  url = "/tags/like/"
+  weight = 182
+
+[[menu.main]]
+  name = "Quotes"
+  url = "/tags/quote/"
+  weight = 181
+
+[[menu.main]]
+  name = "Reading"
+  url = "/tags/read/"
+  weight = 180
+
+[[menu.main]]
+  name = "Reposts"
+  url = "/tags/repost/"
+  weight = 179
+
+[[menu.main]]
+  name = "All Tags"
+  url = "/tags/"
+  weight = 100
+
+[[menu.main]]
+  name = "All Categories"
+  url = "/categories/"
+  weight = 99
+

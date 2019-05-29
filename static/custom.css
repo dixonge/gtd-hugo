@@ -1,0 +1,52 @@
+.site-header {
+    padding-top: 0px;
+}
+
+.site-header-content {
+    padding: 0vw 4vw;
+    justify-content: flex-start;
+    min-height: 0px;
+}
+
+.site-nav {
+    height: auto;
+}
+
+.site-nav-left {
+    padding-bottom: 0px;
+}
+
+.nav {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tag-template .post-feed {
+    margin-top: 0px;
+}
+
+.tag-template .site-header-content {
+    padding: 0 4vw;
+    min-height: 100px;
+}
+
+.post-full-header {
+    padding: 2vw 2vw;
+}
+
+.post-full-image {
+    margin: 0 auto;
+    height: 300px;
+}
+
+.post-card-image {
+    background-size: contain;
+}
+
+.home-template .site-nav {
+    position: relative;
+    top: auto;
+}
+.home-template .post-feed {
+    margin-top: 0px;
+}
