@@ -6,7 +6,7 @@ url: /hugo-bookmarklets/
 categories:
   - Uncategorized
 tags:
-  - likes
+  - notes
 
 ---
 
