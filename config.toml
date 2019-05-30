@@ -64,37 +64,37 @@ canonifyurls    = true
   
 [[menu.main]]
   name = "Posts"
-  url = "/tags/article/"
+  url = "/tags/articles/"
   weight = 190
 
 [[menu.main]]
   name = "Notes"
-  url = "/tags/note/"
+  url = "/tags/notes/"
   weight = 189
 
 [[menu.main]]
   name = "Replies"
-  url = "/tags/reply/"
+  url = "/tags/replies/"
   weight = 188
 
 [[menu.main]]
   name = "Pics"
-  url = "/tags/photo/"
+  url = "/tags/pics/"
   weight = 187
 
 [[menu.main]]
   name = "Vids"
-  url = "/tags/video/"
+  url = "/tags/vids/"
   weight = 186
 
 [[menu.main]]
   name = "Links"
-  url = "/tags/bookmark/"
+  url = "/tags/links/"
   weight = 185
 
 [[menu.main]]
   name = "Check-ins"
-  url = "/tags/checkin/"
+  url = "/tags/check-ins/"
   weight = 184
 
 [[menu.main]]
@@ -104,22 +104,22 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "Likes"
-  url = "/tags/like/"
+  url = "/tags/likes/"
   weight = 182
 
 [[menu.main]]
   name = "Quotes"
-  url = "/tags/quote/"
+  url = "/tags/quotes/"
   weight = 181
 
 [[menu.main]]
   name = "Reading"
-  url = "/tags/read/"
+  url = "/tags/reading/"
   weight = 180
 
 [[menu.main]]
   name = "Reposts"
-  url = "/tags/repost/"
+  url = "/tags/reposts/"
   weight = 179
 
 [[menu.main]]
