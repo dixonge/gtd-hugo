@@ -95,19 +95,9 @@ canonifyurls    = true
   weight = 185
 
 [[menu.main]]
-  name = "Check-ins"
-  url = "/tags/check-ins/"
-  weight = 184
-
-[[menu.main]]
   name = "Exercise"
   url = "/tags/exercise/"
   weight = 183
-
-[[menu.main]]
-  name = "Likes"
-  url = "/tags/likes/"
-  weight = 182
 
 [[menu.main]]
   name = "Quotes"
@@ -118,11 +108,6 @@ canonifyurls    = true
   name = "Reading"
   url = "/tags/reading/"
   weight = 180
-
-[[menu.main]]
-  name = "Reposts"
-  url = "/tags/reposts/"
-  weight = 179
 
 [[menu.main]]
   name = "All Tags"
