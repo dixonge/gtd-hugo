@@ -14,7 +14,7 @@ status:
 categories:
   - Uncategorized
 tags:
-  - articles
+  - posts
 
 ---
 [UPDATE: I have moved to a Lenovo ideapad laptop &#8211; also only $199 at Best Buy. No idea why, amazing laptop! New post about this soon]

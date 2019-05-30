@@ -11,7 +11,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - articles
+  - posts
 
 ---
 Just throwing out some thoughts on what I really want in a blog:

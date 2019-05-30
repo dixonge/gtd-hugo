@@ -16,7 +16,7 @@ categories:
   - IndieWeb
   - OwnYourData
 tags:
-  - articles
+  - posts
 
 ---
 Here are the steps I took in order to get all of my GoodReads books/reviews over into my IndieWeb-ified Wordpress:

@@ -64,7 +64,7 @@ canonifyurls    = true
   
 [[menu.main]]
   name = "Posts"
-  url = "/tags/articles/"
+  url = "/tags/posts/"
   weight = 190
 
 [[menu.main]]

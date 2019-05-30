@@ -12,7 +12,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - articles
+  - posts
 
 ---
 Many milestones that have come and gone in the last couple of years:

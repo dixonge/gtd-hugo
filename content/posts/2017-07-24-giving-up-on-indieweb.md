@@ -4,6 +4,8 @@ author: Glenn Dixon
 type: post
 date: 2017-07-24T22:02:58+00:00
 url: /giving-up-on-indieweb/
+aliases:
+  - /blog/giving-up-on-indieweb/
 image: /images/2018/07/canteven.jpg
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
@@ -12,7 +14,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - articles
+  - posts
 
 ---
 (Further update:  webmentions are working!!!)

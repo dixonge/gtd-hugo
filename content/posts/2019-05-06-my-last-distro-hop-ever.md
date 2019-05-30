@@ -9,7 +9,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - articles
+  - posts
 
 ---
 I know &#8211; I shouldn&#8217;t say silly things like that. But really, I&#8217;m getting close to setting a record here.
