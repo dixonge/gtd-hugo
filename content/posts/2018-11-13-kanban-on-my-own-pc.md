@@ -9,7 +9,7 @@ mf2_syndication:
 categories:
   - OwnYourData
 tags:
-  - note
+  - notes
 
 ---
 Decided I wanted to &#8216;own my data&#8217; when it came to projects. Needed to replicate Trello.

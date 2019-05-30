@@ -28,7 +28,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---
 Incredible loss, incredible journey. I first heard of Simon when I saw a TED talk that he gave. That led me to this astounding book.

@@ -12,7 +12,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - article
+  - articles
 
 ---
 (Further update:  webmentions are working!!!)

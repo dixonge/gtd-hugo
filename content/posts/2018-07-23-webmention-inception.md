@@ -15,7 +15,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reply
+  - replies
 
 ---
 Ironically A List Apart has not enabled webmention, so I have to reply to your site, a webmention to a mention, so to speak. 🙂

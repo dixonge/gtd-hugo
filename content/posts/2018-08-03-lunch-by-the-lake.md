@@ -7,7 +7,7 @@ url: /lunch-by-the-lake/
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 [<img src="/images/2018/08/6f6ac6f8b5ba4af9a214350cb4f71a8a.jpg" width="600" height="600" style="height: auto;" class="sunlit_image" />][1]

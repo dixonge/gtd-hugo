@@ -9,7 +9,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 So my previous post was pretty positive. And then I tried to consolidate users and locked myself out.

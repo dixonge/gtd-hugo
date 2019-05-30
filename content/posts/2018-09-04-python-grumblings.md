@@ -11,7 +11,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 Installing a Python app is kinda like if you had to install the entire XCode dev environment just to run an app on your iPhone. To me, Python is just one step above Java, barely. I&#8217;ll use _anything_ else if available&#8230;

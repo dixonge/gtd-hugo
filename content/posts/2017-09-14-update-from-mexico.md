@@ -7,7 +7,7 @@ url: /update-from-mexico/
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 \### Just an update from our new home

@@ -29,7 +29,7 @@ status:
 categories:
   - GoodReads
 tags:
-  - read
+  - reading
 
 ---
 I am leaving my originsl review of this book here (below) but ten years later and I have completely, utterly changed my mind. This book is generally bullshit.

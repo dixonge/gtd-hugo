@@ -9,7 +9,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - article
+  - articles
 
 ---
 A couple of months ago I got frustrated at something with whatever version of Ubuntu (probably KDE) I was using and then I got the bright idea to switch distros. I tried 4-5 different varieties, but I mainly want to write about Manjaro.

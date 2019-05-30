@@ -29,7 +29,7 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - read
+  - reading
 
 ---
 So much more than the show!

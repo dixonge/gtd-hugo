@@ -6,7 +6,7 @@ url: /built-with-hugo/
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
   - Hugo
   - Netlify
 

@@ -27,6 +27,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - read
+  - reading
 
 ---

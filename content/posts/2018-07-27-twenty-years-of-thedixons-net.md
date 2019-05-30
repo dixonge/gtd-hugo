@@ -12,7 +12,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - article
+  - articles
 
 ---
 I can&#8217;t believe I have owned a domain name for its entire 20-year history! This main domain (thedixons.net) was first registered 20 years ago as of tomorrow, July 28. Here is a copy of the original domain name registration. $70 for two years! (click to embiggen)

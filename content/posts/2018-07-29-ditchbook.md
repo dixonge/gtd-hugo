@@ -16,6 +16,6 @@ categories:
   - IndieWeb
   - OwnYourData
 tags:
-  - bookmark
+  - links
 
 ---

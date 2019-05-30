@@ -11,7 +11,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 So I&#8217;m moving some files from one Flickr account to another, and since there is no existing tool to do this directly, I have to download them and re-upload them. Unfortunately all the work I did adding titles and descriptions will be lost if I simply download the albums using Flickr&#8217;s download button, because they don&#8217;t write that data to the exif or iptc metadata in the image file.

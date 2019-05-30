@@ -13,7 +13,7 @@ categories:
 format: image
 image: /images/2018/08/9d747e6343db46de9be3e3877f5ad0cb.jpg
 tags:
-  - note
+  - notes
 
 ---
 Also testing Sun<del>rise</del>lit app + WordPress (a great typo, though) haha

@@ -23,7 +23,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---
 **The Antidote &#8211; Synopsis**

@@ -19,6 +19,6 @@ status:
 categories:
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---

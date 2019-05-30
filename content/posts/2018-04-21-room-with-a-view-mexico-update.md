@@ -7,7 +7,7 @@ url: /room-with-a-view-mexico-update/
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 We&#8217;ve been on the lookout for a better rental &#8211; something perhaps a little quieter, with a better view and, hopefully, less expensive. As it turns out, we managed to find all of those in the same place!

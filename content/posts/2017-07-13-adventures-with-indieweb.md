@@ -8,7 +8,7 @@ image: /images/2018/07/indieweb-logo-study-001.png
 categories:
   - Uncategorized
 tags:
-  - article
+  - articles
 
 ---
 [UPDATE: 2018-07-21 &#8211; after having initially given up on IndieWeb implementation, I&#8217;m back at it. I&#8217;m also moving from Kirby to <del>Grav CMS</del>. WordPress]

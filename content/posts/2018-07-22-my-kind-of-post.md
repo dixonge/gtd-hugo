@@ -19,7 +19,7 @@ geo_public:
 categories:
   - Uncategorized
 tags:
-  - reply
+  - replies
 
 ---
 I ran across this article when searching to see if the &#8216;post kinds&#8217; plugin for WordPress allowed for a way to view posts by kind. And it does! While I was there, this post from Chris Aldrich kinda opened my eyes to the many cool things you can do with this. #IndieWeb !

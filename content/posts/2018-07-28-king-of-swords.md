@@ -26,7 +26,7 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - read
+  - reading
 
 ---
 Great book! Especially realistic and a bit unnerving as I am currently living in Mexico&#8230;

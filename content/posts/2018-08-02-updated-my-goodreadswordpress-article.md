@@ -11,7 +11,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - note
+  - notes
 
 ---
 revised/expanded my article on importing/displaying your GoodReads library on your own WordPress site:

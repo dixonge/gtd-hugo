@@ -24,7 +24,7 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---
 This is one of the only books I ever read more than once. It is not linear or chronological, so reading it in order is both difficult and not necessary, but in various forms and fashion I read each book of the bible a minimum of three times. Some books were read perhaps a dozen times. This reading occurred over about 30 years.

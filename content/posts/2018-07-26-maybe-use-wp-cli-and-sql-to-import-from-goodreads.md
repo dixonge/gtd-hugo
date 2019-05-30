@@ -14,6 +14,6 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - bookmark
+  - links
 
 ---

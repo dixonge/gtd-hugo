@@ -23,7 +23,7 @@ status:
 categories:
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---
 **Guns and God**

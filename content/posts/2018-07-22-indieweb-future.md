@@ -11,7 +11,7 @@ mf2_in-reply-to:
 categories:
   - Uncategorized
 tags:
-  - reply
+  - replies
 
 ---
 Yes, THIS &#8211; this is the web experience I&#8217;m looking for. Full interaction without soul-sucking algo-timelines.

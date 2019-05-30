@@ -22,6 +22,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---

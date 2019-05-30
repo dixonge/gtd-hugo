@@ -32,6 +32,6 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - read
+  - reading
 
 ---

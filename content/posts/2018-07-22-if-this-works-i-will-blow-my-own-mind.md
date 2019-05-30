@@ -16,7 +16,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reply
+  - replies
 
 ---
 woah, dude, things about to get all cray-cray up in here! What Magick is this?????

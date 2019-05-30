@@ -23,7 +23,7 @@ status:
 categories:
   - Uncategorized
 tags:
-  - read
+  - reading
 
 ---
 **A really good read!**
