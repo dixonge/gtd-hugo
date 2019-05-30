@@ -4,6 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-10-12T20:38:32+00:00
 url: /america-has-never-been-great-or-just-or-free/
+image: /images/ug-kkk.jpg
 mf2_syndication:
   - 'a:0:{}'
 categories:

@@ -4,6 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2019-01-10T21:43:56+00:00
 url: /manjaro-too-much-work/
+image: /images/manjaro.png
 mf2_syndication:
   - 'a:0:{}'
 categories:

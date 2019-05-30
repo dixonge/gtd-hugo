@@ -15,7 +15,7 @@ rs_like_value:
 categories:
   - Uncategorized
 tags:
-  - posts
+  - notes
 
 ---
 I&#8217;m starting to get _really_ irritated with email-only &#8216;passwordless&#8217; authentication. I guess it says something about me that this comes up so frequently. Every time you change browsers, operating systems, apps &#8212; you have to do it again. Sometimes you get to do it again because you waited too long to log back in!

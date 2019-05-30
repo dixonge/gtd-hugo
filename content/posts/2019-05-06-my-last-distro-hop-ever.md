@@ -4,6 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2019-05-06T17:07:33+00:00
 url: /my-last-distro-hop-ever/
+image: /images/linuxmint.png
 mf2_syndication:
   - 'a:0:{}'
 categories:
