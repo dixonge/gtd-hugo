@@ -23,6 +23,7 @@ canonifyurls    = true
   microblogName = "mexpat"
   githubName = "dixonge"
   instagramName = "dixonge"
+  flickrName = "djtrashy"
   mastodonName = "donblanco"
 #  linkedinName = "eueung"
 #  mediumName = ""
