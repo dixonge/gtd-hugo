@@ -22,8 +22,7 @@ mf2_published:
   - 'a:1:{i:0;s:25:"2018-11-18T01:32:24+00:00";}'
 mf2_syndication:
   - 'a:1:{i:0;s:40:"https://www.instagram.com/p/BqTajaQj3mr/";}'
-mf2_photo:
-  - 'a:1:{i:0;s:105:"/images/2018/11/43023957_276523406539611_5649908873021746940_n.jpg";}'
+image: /images/2018/11/43023957_276523406539611_5649908873021746940_n.jpg
 ```
 
 That's an Instagram photo which was pulled into the site using OwnYourGram, a service which I find myself currently unable to log in to. But for it to be a useful post in Hugo, I need to strip probably 80% of that cruft, and I am not sure if it can be done with a search and replace. In other words, a big fat pain in the ass!
