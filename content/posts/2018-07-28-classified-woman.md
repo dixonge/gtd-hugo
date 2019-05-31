@@ -10,10 +10,8 @@ bookauthor:
   - Sibel Edmonds
 Author l-f:
   - Edmonds, Sibel
-isbn:
-  - 615602223
-isbn13:
-  - 9780615602226
+isbn: 615602223
+isbn13: 9780615602226
 myrating:
   - 4
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

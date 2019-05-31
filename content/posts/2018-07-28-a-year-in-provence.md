@@ -10,10 +10,8 @@ bookauthor:
   - Peter Mayle
 Author l-f:
   - Mayle, Peter
-isbn:
-  - 679731148
-isbn13:
-  - 9780679731146
+isbn: 679731148
+isbn13: 9780679731146
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

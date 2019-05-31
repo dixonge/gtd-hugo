@@ -10,10 +10,8 @@ bookauthor:
   - Peter Walsh
 Author l-f:
   - Walsh, Peter
-isbn:
-  - 743292642
-isbn13:
-  - 9780743292641
+isbn: 743292642
+isbn13: 9780743292641
 myrating:
   - 3
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

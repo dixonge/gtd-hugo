@@ -10,10 +10,8 @@ bookauthor:
   - Frank McCourt
 Author l-f:
   - McCourt, Frank
-isbn:
-  - 7205236
-isbn13:
-  - 9780007205233
+isbn: 7205236
+isbn13: 9780007205233
 myrating:
   - 3
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

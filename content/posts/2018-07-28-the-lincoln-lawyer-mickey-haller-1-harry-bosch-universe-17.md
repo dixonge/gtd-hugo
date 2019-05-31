@@ -10,8 +10,7 @@ bookauthor:
   - Michael Connelly
 Author l-f:
   - Connelly, Michael
-isbn13:
-  - 9780752877792
+isbn13: 9780752877792
 myrating:
   - 5
 publisher:
@@ -29,6 +28,6 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

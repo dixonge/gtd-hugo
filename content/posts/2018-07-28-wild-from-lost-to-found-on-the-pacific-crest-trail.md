@@ -10,10 +10,8 @@ bookauthor:
   - Cheryl Strayed
 Author l-f:
   - Strayed, Cheryl
-isbn:
-  - 307592731
-isbn13:
-  - 9780307592736
+isbn: 307592731
+isbn13: 9780307592736
 myrating:
   - 5
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Alfred Lansing
 Author l-f:
   - Lansing, Alfred
-isbn:
-  - 078670621X
-isbn13:
-  - 9780786706211
+isbn: 078670621X
+isbn13: 9780786706211
 myrating:
   - 4
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

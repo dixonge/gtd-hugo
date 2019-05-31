@@ -10,10 +10,8 @@ bookauthor:
   - Mark Sisson
 Author l-f:
   - Sisson, Mark
-isbn:
-  - 982207700
-isbn13:
-  - 9780982207703
+isbn: 982207700
+isbn13: 9780982207703
 myrating:
   - 4
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Seth J. Harwood
 Author l-f:
   - Harwood, Seth J.
-isbn:
-  - 1461160278
-isbn13:
-  - 9781461160274
+isbn: 1461160278
+isbn13: 9781461160274
 myrating:
   - 4
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

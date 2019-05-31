@@ -10,10 +10,8 @@ bookauthor:
   - Erik Larson
 author_l-f:
   - Larson, Erik
-isbn:
-  - 375725601
-isbn13:
-  - 9780375725609
+isbn: 375725601
+isbn13: 9780375725609
 myrating:
   - 3
 publisher:
@@ -31,7 +29,7 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---
 While the information about the fair itself was very interesting, it paled in comparison to the intrigue of one of America's first serial killers. Unfortunately the pages dedicated to the former outnumbered those dedicated to the latter a good two or three to one. The result is a read that is a bit dry for my tastes.

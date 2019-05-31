@@ -11,10 +11,8 @@ bookauthor:
   - Nadine Hays Pisani
 Author l-f:
   - Pisani, Nadine Hays
-isbn:
-  - 1481098225
-isbn13:
-  - 9781481098229
+isbn: 1481098225
+isbn13: 9781481098229
 myrating:
   - 3
 publisher:
@@ -32,6 +30,6 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

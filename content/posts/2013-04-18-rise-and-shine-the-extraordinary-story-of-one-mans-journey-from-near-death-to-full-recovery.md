@@ -5,10 +5,8 @@ author:
 type: post
 date: 2013-04-18T00:00:00+00:00
 url: /rise-and-shine-the-extraordinary-story-of-one-mans-journey-from-near-death-to-full-recovery/
-isbn:
-  - 1595800514
-isbn13:
-  - 9781595800510
+isbn: 1595800514
+isbn13: 9781595800510
 publisher:
   - Santa Monica Press
 myrating:
@@ -28,7 +26,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 Incredible loss, incredible journey. I first heard of Simon when I saw a TED talk that he gave. That led me to this astounding book.

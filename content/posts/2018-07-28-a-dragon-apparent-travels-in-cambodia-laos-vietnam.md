@@ -10,10 +10,8 @@ bookauthor:
   - Norman Lewis
 Author l-f:
   - Lewis, Norman
-isbn:
-  - 090787133X
-isbn13:
-  - 9780907871330
+isbn: 090787133X
+isbn13: 9780907871330
 publisher:
   - Eland
 pages:
@@ -26,6 +24,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

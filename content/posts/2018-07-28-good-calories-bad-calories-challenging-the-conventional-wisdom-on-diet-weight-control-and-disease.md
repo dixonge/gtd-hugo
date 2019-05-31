@@ -10,10 +10,8 @@ bookauthor:
   - Gary Taubes
 Author l-f:
   - Taubes, Gary
-isbn:
-  - 1400040787
-isbn13:
-  - 9781400040780
+isbn: 1400040787
+isbn13: 9781400040780
 myrating:
   - 1
 publisher:
@@ -29,7 +27,7 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---
 I am leaving my originsl review of this book here (below) but ten years later and I have completely, utterly changed my mind. This book is generally bullshit.

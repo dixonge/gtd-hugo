@@ -29,7 +29,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 # Omissions and causal looping {.a-size-base.a-spacing-none.a-color-base.profile-at-review-title.a-text-bold}

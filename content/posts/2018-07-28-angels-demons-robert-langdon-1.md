@@ -10,10 +10,8 @@ bookauthor:
   - Dan Brown
 Author l-f:
   - Brown, Dan
-isbn:
-  - 1416524797
-isbn13:
-  - 9781416524793
+isbn: 1416524797
+isbn13: 9781416524793
 myrating:
   - 4
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

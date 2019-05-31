@@ -10,10 +10,8 @@ bookauthor:
   - Neal Stephenson
 Author l-f:
   - Stephenson, Neal
-isbn:
-  - 60750863
-isbn13:
-  - 9780060750862
+isbn: 60750863
+isbn13: 9780060750862
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

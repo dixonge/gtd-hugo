@@ -12,8 +12,7 @@ author_l-f:
   - Kerman, Piper
 dateread:
   - 201620160812
-isbn13:
-  - 9780812986181
+isbn13: 9780812986181
 myrating:
   - 5
 pages:
@@ -29,7 +28,7 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---
 So much more than the show!

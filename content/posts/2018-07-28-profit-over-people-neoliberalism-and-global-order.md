@@ -12,10 +12,8 @@ Author l-f:
   - Chomsky, Noam
 Additional Authors:
   - Robert W. McChesney
-isbn:
-  - 1888363827
-isbn13:
-  - 9781888363821
+isbn: 1888363827
+isbn13: 9781888363821
 publisher:
   - Seven Stories Press
 pages:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

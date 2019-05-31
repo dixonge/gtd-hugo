@@ -12,10 +12,8 @@ Author l-f:
   - Roberts, David
 Additional Authors:
   - Jon Krakauer
-isbn:
-  - 030759176X
-isbn13:
-  - 9780307591760
+isbn: 030759176X
+isbn13: 9780307591760
 publisher:
   - Broadway Books
 pages:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Neal Stephenson
 Author l-f:
   - Stephenson, Neal
-isbn:
-  - 553380966
-isbn13:
-  - 9780553380965
+isbn: 553380966
+isbn13: 9780553380965
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - 'Simon  Lewis'
 Author l-f:
   - Lewis, Simon
-isbn:
-  - 1595800514
-isbn13:
-  - 9781595800510
+isbn: 1595800514
+isbn13: 9781595800510
 myrating:
   - 5
 publisher:
@@ -28,7 +26,7 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 Incredible loss, incredible journey. I first heard of Simon when I saw a TED talk that he gave. That led me to this astounding book.

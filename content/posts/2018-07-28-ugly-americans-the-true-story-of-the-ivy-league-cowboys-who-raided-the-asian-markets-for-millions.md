@@ -10,10 +10,8 @@ bookauthor:
   - Ben Mezrich
 Author l-f:
   - Mezrich, Ben
-isbn:
-  - 60575018
-isbn13:
-  - 9780060575014
+isbn: 60575018
+isbn13: 9780060575014
 publisher:
   - William Morrow Paperbacks
 pages:
@@ -25,6 +23,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

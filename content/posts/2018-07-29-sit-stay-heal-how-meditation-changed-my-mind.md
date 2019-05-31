@@ -28,7 +28,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 Meditation for the Real World

@@ -8,8 +8,7 @@ bookauthor:
   - Yasha Levine
 dateread:
   - 20180403
-isbn13:
-  - 9781610398022
+isbn13: 9781610398022
 myrating:
   - 5
 pages:
@@ -25,7 +24,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 **Surveillance Valley**

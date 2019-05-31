@@ -12,10 +12,8 @@ Author l-f:
   - Rusho, W.L.
 Additional Authors:
   - Everett Ruess
-isbn:
-  - 879052104
-isbn13:
-  - 9780879052102
+isbn: 879052104
+isbn13: 9780879052102
 myrating:
   - 5
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

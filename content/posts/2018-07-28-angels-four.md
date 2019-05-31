@@ -10,10 +10,8 @@ bookauthor:
   - 'David  Nott'
 Author l-f:
   - Nott, David
-isbn:
-  - 130367982
-isbn13:
-  - 9780130367983
+isbn: 130367982
+isbn13: 9780130367983
 myrating:
   - 4
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -12,10 +12,8 @@ Author l-f:
   - Sathre-Vogel, Nancy
 Additional Authors:
   - John E. Vogel
-isbn:
-  - 983718709
-isbn13:
-  - 9780983718703
+isbn: 983718709
+isbn13: 9780983718703
 myrating:
   - 3
 status:
@@ -24,6 +22,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

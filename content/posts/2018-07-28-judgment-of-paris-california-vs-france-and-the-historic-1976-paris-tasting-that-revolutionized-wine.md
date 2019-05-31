@@ -12,10 +12,8 @@ Author l-f:
   - Taber, George M.
 Additional Authors:
   - Robert G. Mondavi
-isbn:
-  - 743297326
-isbn13:
-  - 9780743297325
+isbn: 743297326
+isbn13: 9780743297325
 myrating:
   - 5
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Scott Sigler
 Author l-f:
   - Sigler, Scott
-isbn:
-  - 307406105
-isbn13:
-  - 9780307406101
+isbn: 307406105
+isbn13: 9780307406101
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

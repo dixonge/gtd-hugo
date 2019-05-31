@@ -10,10 +10,8 @@ bookauthor:
   - Matthew Wayne Selznick
 Author l-f:
   - Selznick, Matthew Wayne
-isbn:
-  - 141165661X
-isbn13:
-  - 9781411656611
+isbn: 141165661X
+isbn13: 9781411656611
 myrating:
   - 4
 publisher:
@@ -25,6 +23,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

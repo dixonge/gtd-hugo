@@ -11,10 +11,8 @@ bookauthor:
   - C. Hope Clark
 Author l-f:
   - Clark, C. Hope
-isbn:
-  - 1611940907
-isbn13:
-  - 9781611940909
+isbn: 1611940907
+isbn13: 9781611940909
 myrating:
   - 3
 publisher:
@@ -32,6 +30,6 @@ mf2_syndication:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

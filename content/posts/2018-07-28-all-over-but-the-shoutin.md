@@ -10,10 +10,8 @@ bookauthor:
   - Rick Bragg
 Author l-f:
   - Bragg, Rick
-isbn:
-  - 679774025
-isbn13:
-  - 9780679774020
+isbn: 679774025
+isbn13: 9780679774020
 publisher:
   - Vintage
 pages:
@@ -26,6 +24,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

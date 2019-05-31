@@ -10,10 +10,8 @@ bookauthor:
   - Sam Harris
 Author l-f:
   - Harris, Sam
-isbn:
-  - 307265773
-isbn13:
-  - 9780307265777
+isbn: 307265773
+isbn13: 9780307265777
 myrating:
   - 4
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

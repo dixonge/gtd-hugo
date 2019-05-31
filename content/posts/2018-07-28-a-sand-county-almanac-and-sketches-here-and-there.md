@@ -10,10 +10,8 @@ bookauthor:
   - Aldo Leopold
 Author l-f:
   - Leopold, Aldo
-isbn:
-  - 195007778
-isbn13:
-  - 9780195007770
+isbn: 195007778
+isbn13: 9780195007770
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

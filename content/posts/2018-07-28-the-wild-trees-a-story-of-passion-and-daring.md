@@ -10,10 +10,8 @@ bookauthor:
   - 'Richard   Preston'
 Author l-f:
   - Preston, Richard
-isbn:
-  - 1400064899
-isbn13:
-  - 9781400064892
+isbn: 1400064899
+isbn13: 9781400064892
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

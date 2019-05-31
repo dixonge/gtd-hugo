@@ -12,10 +12,8 @@ Author l-f:
   - Stephenson, Neal
 Additional Authors:
   - 'George F. Jewsbury, Stephen  Bury'
-isbn:
-  - 553383434
-isbn13:
-  - 9780553383430
+isbn: 553383434
+isbn13: 9780553383430
 myrating:
   - 4
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Richard Dawkins
 Author l-f:
   - Dawkins, Richard
-isbn:
-  - 618680004
-isbn13:
-  - 9780618680009
+isbn: 618680004
+isbn13: 9780618680009
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Douglas Preston
 Author l-f:
   - Preston, Douglas
-isbn:
-  - 671737597
-isbn13:
-  - 9780671737597
+isbn: 671737597
+isbn13: 9780671737597
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

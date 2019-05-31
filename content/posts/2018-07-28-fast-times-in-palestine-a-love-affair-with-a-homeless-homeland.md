@@ -10,10 +10,8 @@ bookauthor:
   - Pamela J. Olson
 Author l-f:
   - Olson, Pamela J.
-isbn:
-  - 158005482X
-isbn13:
-  - 9781580054829
+isbn: 158005482X
+isbn13: 9781580054829
 publisher:
   - Seal Press
 pages:
@@ -26,6 +24,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

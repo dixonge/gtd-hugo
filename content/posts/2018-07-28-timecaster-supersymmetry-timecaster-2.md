@@ -10,8 +10,7 @@ bookauthor:
   - Joe Kimball
 Author l-f:
   - Kimball, Joe
-isbn13:
-  - 9780985588038
+isbn13: 9780985588038
 myrating:
   - 4
 publisher:
@@ -26,6 +25,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

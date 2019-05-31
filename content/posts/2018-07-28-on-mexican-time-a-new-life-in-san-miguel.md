@@ -10,10 +10,8 @@ bookauthor:
   - Tony Cohan
 Author l-f:
   - Cohan, Tony
-isbn:
-  - 747553653
-isbn13:
-  - 9780747553656
+isbn: 747553653
+isbn13: 9780747553656
 myrating:
   - 5
 publisher:
@@ -26,6 +24,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

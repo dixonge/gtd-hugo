@@ -10,10 +10,8 @@ bookauthor:
   - Philip K. Dick
 Author l-f:
   - Dick, Philip K.
-isbn:
-  - 679740678
-isbn13:
-  - 9780679740674
+isbn: 679740678
+isbn13: 9780679740674
 publisher:
   - Vintage
 pages:
@@ -26,6 +24,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

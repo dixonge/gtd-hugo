@@ -10,10 +10,8 @@ bookauthor:
   - Michael Connelly
 Author l-f:
   - Connelly, Michael
-isbn:
-  - 446690449
-isbn13:
-  - 9780446690447
+isbn: 446690449
+isbn13: 9780446690447
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

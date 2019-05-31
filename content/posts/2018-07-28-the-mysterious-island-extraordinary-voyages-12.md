@@ -12,10 +12,8 @@ Author l-f:
   - Verne, Jules
 Additional Authors:
   - Caleb Carr, Jordan Stump
-isbn:
-  - 812972120
-isbn13:
-  - 9780812972122
+isbn: 812972120
+isbn13: 9780812972122
 myrating:
   - 5
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

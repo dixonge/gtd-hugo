@@ -10,10 +10,8 @@ bookauthor:
   - Christopher McDougall
 Author l-f:
   - McDougall, Christopher
-isbn:
-  - 307266303
-isbn13:
-  - 9780307266309
+isbn: 307266303
+isbn13: 9780307266309
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

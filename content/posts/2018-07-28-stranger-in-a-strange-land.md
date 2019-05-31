@@ -10,10 +10,8 @@ bookauthor:
   - Robert A. Heinlein
 Author l-f:
   - Heinlein, Robert A.
-isbn:
-  - 441788386
-isbn13:
-  - 9780441788385
+isbn: 441788386
+isbn13: 9780441788385
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

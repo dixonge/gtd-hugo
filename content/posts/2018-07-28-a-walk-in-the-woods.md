@@ -10,10 +10,8 @@ bookauthor:
   - Bill Bryson
 Author l-f:
   - Bryson, Bill
-isbn:
-  - 307279464
-isbn13:
-  - 9780307279460
+isbn: 307279464
+isbn13: 9780307279460
 myrating:
   - 4
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

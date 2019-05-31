@@ -10,8 +10,7 @@ bookauthor:
   - Robert Louis DeMayo
 Author l-f:
   - DeMayo, Robert Louis
-isbn13:
-  - 9780991118328
+isbn13: 9780991118328
 myrating:
   - 4
 publisher:
@@ -26,6 +25,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

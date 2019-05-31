@@ -105,8 +105,8 @@ canonifyurls    = true
   weight = 181
 
 [[menu.main]]
-  name = "Reading"
-  url = "/tags/reading/"
+  name = "Books"
+  url = "/tags/books/"
   weight = 180
 
 [[menu.main]]

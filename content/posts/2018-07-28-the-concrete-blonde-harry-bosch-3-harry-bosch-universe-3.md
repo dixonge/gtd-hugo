@@ -10,10 +10,8 @@ bookauthor:
   - Michael Connelly
 Author l-f:
   - Connelly, Michael
-isbn:
-  - 044661758X
-isbn13:
-  - 9780446617581
+isbn: 044661758X
+isbn13: 9780446617581
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

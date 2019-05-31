@@ -10,10 +10,8 @@ bookauthor:
   - Neil Strauss
 Author l-f:
   - Strauss, Neil
-isbn:
-  - 60898771
-isbn13:
-  - 9780060898779
+isbn: 60898771
+isbn13: 9780060898779
 myrating:
   - 2
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

@@ -10,10 +10,8 @@ bookauthor:
   - Chris Guillebeau
 Author l-f:
   - Guillebeau, Chris
-isbn:
-  - 307951529
-isbn13:
-  - 9780307951526
+isbn: 307951529
+isbn13: 9780307951526
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

@@ -6,8 +6,7 @@ date: 2018-10-03T16:57:32+00:00
 url: /the-darkening-age/
 bookauthor:
   - Catherine Nixey
-isbn13:
-  - 9788430619542
+isbn13: 9788430619542
 myrating:
   - 4
 publisher:
@@ -21,6 +20,6 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

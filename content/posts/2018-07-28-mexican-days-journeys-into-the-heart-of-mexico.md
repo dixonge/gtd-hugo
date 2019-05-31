@@ -10,10 +10,8 @@ bookauthor:
   - Tony Cohan
 Author l-f:
   - Cohan, Tony
-isbn:
-  - 767920910
-isbn13:
-  - 9780767920919
+isbn: 767920910
+isbn13: 9780767920919
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

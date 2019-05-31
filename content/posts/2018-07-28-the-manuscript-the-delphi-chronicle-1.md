@@ -10,8 +10,7 @@ bookauthor:
   - Russell Blake
 Author l-f:
   - Blake, Russell
-isbn13:
-  - 9781619796171
+isbn13: 9781619796171
 myrating:
   - 4
 publisher:
@@ -24,6 +23,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

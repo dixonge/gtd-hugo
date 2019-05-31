@@ -10,10 +10,8 @@ bookauthor:
   - Michael Connelly
 Author l-f:
   - Connelly, Michael
-isbn:
-  - 316734950
-isbn13:
-  - 9780316734950
+isbn: 316734950
+isbn13: 9780316734950
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

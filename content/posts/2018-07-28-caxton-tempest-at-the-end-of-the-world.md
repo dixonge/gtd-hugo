@@ -10,10 +10,8 @@ bookauthor:
   - Ken Preston
 Author l-f:
   - Preston, Ken
-isbn:
-  - 1846858836
-isbn13:
-  - 9781846858833
+isbn: 1846858836
+isbn13: 9781846858833
 publisher:
   - Exposure Publishing
 pages:
@@ -25,6 +23,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

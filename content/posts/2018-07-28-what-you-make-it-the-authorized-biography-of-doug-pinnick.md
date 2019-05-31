@@ -23,6 +23,6 @@ status:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

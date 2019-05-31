@@ -10,10 +10,8 @@ bookauthor:
   - Jon Krakauer
 Author l-f:
   - Krakauer, Jon
-isbn:
-  - 385486804
-isbn13:
-  - 9780385486804
+isbn: 385486804
+isbn13: 9780385486804
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

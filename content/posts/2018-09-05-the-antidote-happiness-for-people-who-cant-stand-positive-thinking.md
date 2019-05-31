@@ -8,8 +8,7 @@ bookauthor:
   - Oliver Burkeman
 dateread:
   - 20180928
-isbn13:
-  - 9780865479418
+isbn13: 9780865479418
 myrating:
   - 5
 publisher:
@@ -23,7 +22,7 @@ mf2_syndication:
 categories:
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---
 **The Antidote &#8211; Synopsis**

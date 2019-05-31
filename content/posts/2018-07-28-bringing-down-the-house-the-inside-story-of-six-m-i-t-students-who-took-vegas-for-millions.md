@@ -10,10 +10,8 @@ bookauthor:
   - Ben Mezrich
 Author l-f:
   - Mezrich, Ben
-isbn:
-  - 743225708
-isbn13:
-  - 9780743225700
+isbn: 743225708
+isbn13: 9780743225700
 myrating:
   - 5
 publisher:
@@ -27,6 +25,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---

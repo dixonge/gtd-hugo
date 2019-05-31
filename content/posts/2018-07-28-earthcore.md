@@ -10,10 +10,8 @@ bookauthor:
   - Scott Sigler
 Author l-f:
   - Sigler, Scott
-isbn:
-  - 1896944329
-isbn13:
-  - 9781896944326
+isbn: 1896944329
+isbn13: 9781896944326
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

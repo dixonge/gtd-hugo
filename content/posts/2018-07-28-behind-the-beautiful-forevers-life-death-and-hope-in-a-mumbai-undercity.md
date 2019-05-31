@@ -10,10 +10,8 @@ bookauthor:
   - Katherine Boo
 Author l-f:
   - Boo, Katherine
-isbn:
-  - 1400067553
-isbn13:
-  - 9781400067558
+isbn: 1400067553
+isbn13: 9781400067558
 myrating:
   - 5
 publisher:
@@ -30,6 +28,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

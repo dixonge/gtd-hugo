@@ -10,10 +10,8 @@ bookauthor:
   - Neil Peart
 Author l-f:
   - Peart, Neil
-isbn:
-  - 1550225480
-isbn13:
-  - 9781550225488
+isbn: 1550225480
+isbn13: 9781550225488
 myrating:
   - 5
 publisher:
@@ -28,6 +26,6 @@ categories:
   - GoodReads
   - Uncategorized
 tags:
-  - reading
+  - books
 
 ---

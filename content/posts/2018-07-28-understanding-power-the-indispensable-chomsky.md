@@ -12,10 +12,8 @@ Author l-f:
   - Chomsky, Noam
 Additional Authors:
   - Peter R. Mitchell, John Schoeffel
-isbn:
-  - 1565847032
-isbn13:
-  - 9781565847033
+isbn: 1565847032
+isbn13: 9781565847033
 myrating:
   - 4
 publisher:
@@ -29,6 +27,6 @@ status:
 categories:
   - GoodReads
 tags:
-  - reading
+  - books
 
 ---
