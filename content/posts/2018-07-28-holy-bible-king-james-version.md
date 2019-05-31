@@ -6,20 +6,15 @@ date: 2018-07-28T15:07:23+00:00
 url: /holy-bible-king-james-version/
 Book Id:
   - 1923820
-bookauthor:
-  - Anonymous
+bookauthor: Anonymous
 Author l-f:
   - Anonymous, Anonymous
-myrating:
-  - 1
-pages:
-  - 1590
-yearpublished:
-  - 2008
+myrating: 1
+pages: 1590
+yearpublished: 2008
 dateread:
   - 2003/01/01
-status:
-  - read
+status: read
 categories:
   - GoodReads
   - Uncategorized

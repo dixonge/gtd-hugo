@@ -7,18 +7,13 @@ url: /king-of-swords/
 image: /images/2018/07/KOS.jpg
 Book Id:
   - 13159033
-bookauthor:
-  - Russell Blake
+bookauthor: Russell Blake
 Author l-f:
   - Blake, Russell
-myrating:
-  - 5
-publisher:
-  - Manana Publishing
-pages:
-  - 306
-status:
-  - read
+myrating: 5
+publisher: Manana Publishing
+pages: 306
+status: read
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

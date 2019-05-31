@@ -5,8 +5,7 @@ type: post
 date: 2018-09-05T11:54:34+00:00
 url: /the-odd-persistence-of-superstition/
 image: /images/stargate.jpg
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:

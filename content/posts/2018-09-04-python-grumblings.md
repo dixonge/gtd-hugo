@@ -4,8 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-09-04T12:54:09+00:00
 url: /python-grumblings/
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:

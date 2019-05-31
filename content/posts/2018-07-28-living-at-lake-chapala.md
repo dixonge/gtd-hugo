@@ -6,20 +6,14 @@ date: 2018-07-28T15:06:51+00:00
 url: /living-at-lake-chapala/
 Book Id:
   - 19298805
-bookauthor:
-  - Judy King
+bookauthor: Judy King
 Author l-f:
   - King, Judy
-myrating:
-  - 5
-publisher:
-  - www.ajijicbooks.com
-pages:
-  - 454
-yearpublished:
-  - 2013
-status:
-  - read
+myrating: 5
+publisher: www.ajijicbooks.com
+pages: 454
+yearpublished: 2013
+status: read
 categories:
   - GoodReads
   - Uncategorized

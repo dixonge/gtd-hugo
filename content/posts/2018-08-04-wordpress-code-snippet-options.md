@@ -10,8 +10,7 @@ mf2_bookmark-of:
     Dmytro Spilka
     WordPress is a powerful content management system that can display many types of media — including many different types of images and videos. Unfortunately, WordPress doesn’t display code snippets very well! 
     In most cases, you can’t paste code directly into a new post becaus...";}s:4:"name";a:1:{i:0;s:67:"How To Easily Show Code Snippets On Your WordPress Website | Solvid";}s:3:"url";a:1:{i:0;s:60:"https://solvid.co.uk/how-to-show-code-snippets-in-wordpress/";}s:8:"category";a:3:{i:0;s:34:"Display Code Snippets in WordPress";i:1;s:38:"How To Show Code Snippets In WordPress";i:2;s:28:"Syntax Highlighter WordPress";}s:11:"publication";a:1:{i:0;s:6:"Solvid";}s:8:"featured";a:1:{i:0;s:91:"https://solvid.co.uk/wp-content/uploads/2017/09/Hhow-To-Show-Code-Snippets-In-WordPress.png";}s:6:"author";a:1:{s:4:"name";s:36:"https://www.facebook.com/dima.spilka";}}}
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:

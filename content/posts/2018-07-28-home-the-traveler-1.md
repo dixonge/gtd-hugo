@@ -6,20 +6,14 @@ date: 2018-07-28T15:06:15+00:00
 url: /home-the-traveler-1/
 Book Id:
   - 28218574
-bookauthor:
-  - Tom Abrahams
+bookauthor: Tom Abrahams
 Author l-f:
   - Abrahams, Tom
-myrating:
-  - 2
-publisher:
-  - Piton Press
-pages:
-  - 278
-yearpublished:
-  - 2015
-status:
-  - read
+myrating: 2
+publisher: Piton Press
+pages: 278
+yearpublished: 2015
+status: read
 categories:
   - Uncategorized
 tags:

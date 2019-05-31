@@ -7,22 +7,16 @@ url: /happier-than-a-billionaire-the-sequel/
 image: /images/2018/07/billion.jpg
 Book Id:
   - 17153392
-bookauthor:
-  - Nadine Hays Pisani
+bookauthor: Nadine Hays Pisani
 Author l-f:
   - Pisani, Nadine Hays
 isbn: 1481098225
 isbn13: 9781481098229
-myrating:
-  - 3
-publisher:
-  - Createspace Independent Publishing Platform
-pages:
-  - 320
-yearpublished:
-  - 2012
-status:
-  - read
+myrating: 3
+publisher: Createspace Independent Publishing Platform
+pages: 320
+yearpublished: 2012
+status: read
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

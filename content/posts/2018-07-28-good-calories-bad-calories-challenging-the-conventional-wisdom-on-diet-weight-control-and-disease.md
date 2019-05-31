@@ -6,24 +6,18 @@ date: 2018-07-28T15:10:52+00:00
 url: /good-calories-bad-calories-challenging-the-conventional-wisdom-on-diet-weight-control-and-disease/
 Book Id:
   - 1820055
-bookauthor:
-  - Gary Taubes
+bookauthor: Gary Taubes
 Author l-f:
   - Taubes, Gary
 isbn: 1400040787
 isbn13: 9781400040780
-myrating:
-  - 1
-publisher:
-  - Knopf
-pages:
-  - 601
-yearpublished:
-  - 2007
+myrating: 1
+publisher: Knopf
+pages: 601
+yearpublished: 2007
 dateread:
   - 2008/12/11
-status:
-  - read
+status: read
 categories:
   - GoodReads
 tags:

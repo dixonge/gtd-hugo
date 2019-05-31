@@ -6,18 +6,13 @@ date: 2018-07-28T15:06:21+00:00
 url: /still-life-with-brass-pole/
 Book Id:
   - 11250477
-bookauthor:
-  - Craig Machen
+bookauthor: Craig Machen
 Author l-f:
   - Machen, Craig
-myrating:
-  - 4
-pages:
-  - 280
-yearpublished:
-  - 2011
-status:
-  - read
+myrating: 4
+pages: 280
+yearpublished: 2011
+status: read
 categories:
   - Uncategorized
 tags:

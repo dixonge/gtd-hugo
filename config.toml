@@ -5,6 +5,7 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
+summaryLength   = 25
 
 [params]
   title       = "Glenn 2.0"

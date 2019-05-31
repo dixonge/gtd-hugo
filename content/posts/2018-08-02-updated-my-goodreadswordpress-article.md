@@ -4,8 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-08-02T12:56:15+00:00
 url: /updated-my-goodreadswordpress-article/
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:

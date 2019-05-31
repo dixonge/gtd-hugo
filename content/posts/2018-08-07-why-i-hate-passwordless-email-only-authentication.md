@@ -4,8 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-08-07T12:01:22+00:00
 url: /why-i-hate-passwordless-email-only-authentication/
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 rs_like_voted_ips:

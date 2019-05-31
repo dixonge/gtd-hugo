@@ -4,19 +4,14 @@ author: Glenn Dixon
 type: post
 date: 2018-09-05T13:30:52+00:00
 url: /the-antidote-happiness-for-people-who-cant-stand-positive-thinking/
-bookauthor:
-  - Oliver Burkeman
+bookauthor: Oliver Burkeman
 dateread:
   - 20180928
 isbn13: 9780865479418
-myrating:
-  - 5
-publisher:
-  - The Text Publishing Company
-status:
-  - read
-yearpublished:
-  - 2008
+myrating: 5
+publisher: The Text Publishing Company
+status: read
+yearpublished: 2008
 mf2_syndication:
   - 'a:0:{}'
 categories:

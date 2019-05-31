@@ -6,22 +6,16 @@ date: 2018-07-28T15:07:20+00:00
 url: /rise-and-shine-the-extraordinary-story-of-one-mans-journey-from-near-death-to-full-recovery-2/
 Book Id:
   - 8179291
-bookauthor:
-  - 'Simon  Lewis'
+bookauthor: 'Simon  Lewis'
 Author l-f:
   - Lewis, Simon
 isbn: 1595800514
 isbn13: 9781595800510
-myrating:
-  - 5
-publisher:
-  - Santa Monica Press
-pages:
-  - 360
-yearpublished:
-  - 2010
-status:
-  - read
+myrating: 5
+publisher: Santa Monica Press
+pages: 360
+yearpublished: 2010
+status: read
 categories:
   - GoodReads
   - Uncategorized

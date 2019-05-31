@@ -9,8 +9,7 @@ mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:
   - 'a:0:{}'
-status:
-  - 'null'
+status: 'null'
 categories:
   - Uncategorized
 tags:

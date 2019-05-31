@@ -6,22 +6,16 @@ date: 2018-07-28T15:08:33+00:00
 url: /this-is-life-a-jack-palms-novel/
 Book Id:
   - 14377094
-bookauthor:
-  - Seth J. Harwood
+bookauthor: Seth J. Harwood
 Author l-f:
   - Harwood, Seth J.
 isbn: 1461160278
 isbn13: 9781461160274
-myrating:
-  - 4
-publisher:
-  - Createspace
-pages:
-  - 370
-yearpublished:
-  - 2011
-status:
-  - read
+myrating: 4
+publisher: Createspace
+pages: 370
+yearpublished: 2011
+status: read
 categories:
   - GoodReads
   - Uncategorized

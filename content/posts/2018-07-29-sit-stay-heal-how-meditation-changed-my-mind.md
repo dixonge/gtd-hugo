@@ -7,22 +7,15 @@ url: /sit-stay-heal-how-meditation-changed-my-mind/
 image: /images/2018/07/sitstayheaL.jpg
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
-bookauthor:
-  - Spike Gillespie
-author_l-f:
-  - Gillespie, Spike
+bookauthor: Spike Gillespie
+author_l-f: Gillespie, Spike
 dateread:
   - 20160704
-myrating:
-  - 5
-pages:
-  - 236
-publisher:
-  - March Girls Studio
-status:
-  - read
-yearpublished:
-  - 2015
+myrating: 5
+pages: 236
+publisher: March Girls Studio
+status: read
+yearpublished: 2015
 mf2_syndication:
   - 'a:0:{}'
 categories:

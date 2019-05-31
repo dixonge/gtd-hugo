@@ -6,22 +6,16 @@ date: 2018-07-28T15:06:24+00:00
 url: /ocean-of-storms/
 Book Id:
   - 30624628
-bookauthor:
-  - Christopher Mari
+bookauthor: Christopher Mari
 Author l-f:
   - Mari, Christopher
 Additional Authors:
   - Jeremy K. Brown
-myrating:
-  - 3
-publisher:
-  - 47North
-pages:
-  - 410
-yearpublished:
-  - 2016
-status:
-  - read
+myrating: 3
+publisher: 47North
+pages: 410
+yearpublished: 2016
+status: read
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 mf2_syndication:

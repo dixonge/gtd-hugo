@@ -6,23 +6,16 @@ date: 2018-07-29T02:10:00+00:00
 url: /orange-is-the-new-black-my-year-in-a-womens-prison/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
-bookauthor:
-  - Piper Kerman
-author_l-f:
-  - Kerman, Piper
+bookauthor: Piper Kerman
+author_l-f: Kerman, Piper
 dateread:
   - 201620160812
 isbn13: 9780812986181
-myrating:
-  - 5
-pages:
-  - 322
-publisher:
-  - 'Spiegel & Grau'
-status:
-  - read
-yearpublished:
-  - 2002
+myrating: 5
+pages: 322
+publisher: 'Spiegel & Grau'
+status: read
+yearpublished: 2002
 mf2_syndication:
   - 'a:0:{}'
 categories:

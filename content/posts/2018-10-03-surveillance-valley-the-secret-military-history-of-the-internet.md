@@ -4,21 +4,15 @@ author: Glenn Dixon
 type: post
 date: 2018-10-03T17:04:36+00:00
 url: /surveillance-valley-the-secret-military-history-of-the-internet/
-bookauthor:
-  - Yasha Levine
+bookauthor: Yasha Levine
 dateread:
   - 20180403
 isbn13: 9781610398022
-myrating:
-  - 5
-pages:
-  - 369
-publisher:
-  - PublicAffairs
-status:
-  - read
-yearpublished:
-  - 2018
+myrating: 5
+pages: 369
+publisher: PublicAffairs
+status: read
+yearpublished: 2018
 mf2_syndication:
   - 'a:0:{}'
 categories:

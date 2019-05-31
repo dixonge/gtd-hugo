@@ -6,22 +6,16 @@ date: 2018-07-28T15:06:37+00:00
 url: /what-alice-forgot/
 Book Id:
   - 11459962
-bookauthor:
-  - Liane Moriarty
+bookauthor: Liane Moriarty
 Author l-f:
   - Moriarty, Liane
-myrating:
-  - 5
-publisher:
-  - Berkley
-pages:
-  - 496
-yearpublished:
-  - 2011
+myrating: 5
+publisher: Berkley
+pages: 496
+yearpublished: 2011
 dateread:
   - 2016/07/17
-status:
-  - read
+status: read
 categories:
   - GoodReads
   - Uncategorized

@@ -6,20 +6,14 @@ date: 2018-07-28T15:07:06+00:00
 url: /a-clean-kill-in-tokyo-john-rain-1/
 Book Id:
   - 925
-bookauthor:
-  - Barry Eisler
+bookauthor: Barry Eisler
 Author l-f:
   - Eisler, Barry
-myrating:
-  - 5
-publisher:
-  - Barry Eisler
-pages:
-  - 363
-yearpublished:
-  - 2002
-status:
-  - read
+myrating: 5
+publisher: Barry Eisler
+pages: 363
+yearpublished: 2002
+status: read
 categories:
   - GoodReads
   - Uncategorized

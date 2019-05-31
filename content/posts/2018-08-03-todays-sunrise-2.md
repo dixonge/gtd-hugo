@@ -4,8 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-08-03T14:49:12+00:00
 url: /todays-sunrise-2/
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:

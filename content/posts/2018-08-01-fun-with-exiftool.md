@@ -4,8 +4,7 @@ author: Glenn Dixon
 type: post
 date: 2018-08-01T21:23:54+00:00
 url: /fun-with-exiftool/
-status:
-  - 'null'
+status: 'null'
 mf2_syndication:
   - 'a:0:{}'
 categories:
