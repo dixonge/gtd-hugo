@@ -42,7 +42,7 @@ summaryLength   = 25
   authorWebsite = "https://glenn.thedixons.net"
   authorDescription = "Retired I.T. nerd – Mexpat – vegan – atheist – aspirational writer, musician, genealogist"
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "Oops! That page doesn't exist (404 error)"
 
   #casper or caspertwo
   singleViewStyle = "casper"
@@ -55,10 +55,10 @@ summaryLength   = 25
   url = "/"
   weight = 200
 
-[[menu.main]]
-  name = "The Real Glenn"
-  url = "/the-real-glenn"
-  weight = 197
+#[[menu.main]]
+#  name = "The Real Glenn"
+#  url = "/the-real-glenn"
+#  weight = 197
 
 [[menu.main]]
   name = "Code Snippets"
