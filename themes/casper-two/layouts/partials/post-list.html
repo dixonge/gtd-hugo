@@ -10,6 +10,10 @@
     <a class="post-card-image-link u-url" href="{{ .Permalink }}">
         <div class="post-card-image" style="background-image: url(http://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg)"></div>
       </a>
+      {{else if in .Params.tags "notes" }}
+      <a class="post-card-image-link u-url" href="{{ .Permalink }}">
+          <div class="post-card-image" style="background-image: url(/images/notes.jpeg)"></div>
+        </a>
     {{else}}
     <a class="post-card-image-link u-url" href="{{ .Permalink }}">
       <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
