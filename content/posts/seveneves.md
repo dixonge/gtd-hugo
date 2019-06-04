@@ -2,6 +2,7 @@
 title: "Seveneves"
 date: 2019-06-04T15:34:04-05:00
 draft: false
+type: post
 author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal

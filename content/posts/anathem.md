@@ -1,11 +1,10 @@
 ---
 title: "Anathem"
 date: 2019-06-04T15:33:58-05:00
-draft: false
+type: post
 author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
-isbn: 
 isbn13: 9780061474095
 myrating: 5
 publisher: William Morrow
