@@ -50,6 +50,10 @@ summaryLength   = 25
 [permalinks]
   post = "/post/:slug/"
 
+[outputs]
+  home = ["HTML", "RSS"]
+  blog = ["HTML", "RSS", "JSON"]
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -120,3 +124,7 @@ summaryLength   = 25
   url = "/categories/"
   weight = 99
 
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 98
