@@ -11,7 +11,7 @@ Author l-f:
   - Connelly, Michael
 isbn: 446612731
 isbn13: 9780446612739
-myrating: 5
+myrating: ★★★★★
 publisher: Grand Central Publishing
 pages: 482
 yearpublished: 2002

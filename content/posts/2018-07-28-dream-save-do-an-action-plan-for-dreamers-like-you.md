@@ -11,7 +11,7 @@ Author l-f:
   - Talbot, Betsy
 Additional Authors:
   - Warren Talbot
-myrating: 4
+myrating: ★★★★
 publisher: Married with Luggage
 pages: 370
 yearpublished: 2013

@@ -8,7 +8,7 @@ url: /rise-and-shine-the-extraordinary-story-of-one-mans-journey-from-near-death
 isbn: 1595800514
 isbn13: 9781595800510
 publisher: Santa Monica Press
-myrating: 5
+myrating: ★★★★★
 pages: 360
 yearpublished: 2010
 read-status: read

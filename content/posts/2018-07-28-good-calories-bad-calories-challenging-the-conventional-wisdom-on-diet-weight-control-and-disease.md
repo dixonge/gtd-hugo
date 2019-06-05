@@ -11,7 +11,7 @@ Author l-f:
   - Taubes, Gary
 isbn: 1400040787
 isbn13: 9781400040780
-myrating: 1
+myrating: ★
 publisher: Knopf
 pages: 601
 yearpublished: 2007

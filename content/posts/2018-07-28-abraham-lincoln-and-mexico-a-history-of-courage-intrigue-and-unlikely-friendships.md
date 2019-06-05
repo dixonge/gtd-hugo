@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Michael Hogan
 Author l-f:
   - Hogan, Michael
-myrating: 4
+myrating: ★★★★
 publisher: EgretBooks.com
 pages: 362
 yearpublished: 2016

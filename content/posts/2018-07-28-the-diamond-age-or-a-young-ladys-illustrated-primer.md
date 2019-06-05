@@ -11,7 +11,7 @@ Author l-f:
   - Stephenson, Neal
 isbn: 553380966
 isbn13: 9780553380965
-myrating: 5
+myrating: ★★★★★
 publisher: Spectra
 pages: 499
 yearpublished: 2000

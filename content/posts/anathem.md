@@ -6,7 +6,7 @@ author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn13: 9780061474095
-myrating: 5
+myrating: ★★★★★
 publisher: William Morrow
 pages: 937
 yearpublished: 2008

@@ -11,7 +11,7 @@ Author l-f:
   - Stephenson, Neal
 isbn: 60750863
 isbn13: 9780060750862
-myrating: 5
+myrating: ★★★★★
 publisher: William Morrow Paperbacks
 pages: 908
 yearpublished: 2005

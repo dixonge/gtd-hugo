@@ -13,7 +13,7 @@ Additional Authors:
   - 'George F. Jewsbury, Stephen  Bury'
 isbn: 553383434
 isbn13: 9780553383430
-myrating: 4
+myrating: ★★★★
 publisher: Spectra
 pages: 640
 yearpublished: 2005

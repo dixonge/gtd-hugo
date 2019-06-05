@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Bill Bryson
 Author l-f:
   - Bryson, Bill
-myrating: 5
+myrating: ★★★★★
 dateread:
   - 2016/10/14
 status: read

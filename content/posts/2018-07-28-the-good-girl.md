@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Mary Kubica
 Author l-f:
   - Kubica, Mary
-myrating: 5
+myrating: ★★★★★
 publisher: Harlequin MIRA
 pages: 400
 yearpublished: 2014

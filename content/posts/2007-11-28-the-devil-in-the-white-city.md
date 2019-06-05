@@ -10,7 +10,7 @@ bookauthor: Erik Larson
 author_l-f: Larson, Erik
 isbn: 375725601
 isbn13: 9780375725609
-myrating: 3
+myrating: ★★★
 publisher: Vintage Books
 pages: 447
 yearpublished: 2004

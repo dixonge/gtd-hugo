@@ -8,7 +8,7 @@ bookauthor: Yasha Levine
 dateread:
   - 20180403
 isbn13: 9781610398022
-myrating: 5
+myrating: ★★★★★
 pages: 369
 publisher: PublicAffairs
 status: read

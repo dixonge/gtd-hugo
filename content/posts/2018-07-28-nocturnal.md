@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Scott Sigler
 Author l-f:
   - Sigler, Scott
-myrating: 5
+myrating: ★★★★★
 pages: 1
 yearpublished: 2007
 status: read

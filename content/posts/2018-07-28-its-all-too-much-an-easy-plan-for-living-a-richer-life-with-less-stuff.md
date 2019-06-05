@@ -11,7 +11,7 @@ Author l-f:
   - Walsh, Peter
 isbn: 743292642
 isbn13: 9780743292641
-myrating: 3
+myrating: ★★★
 publisher: Free Press
 pages: 230
 yearpublished: 2007

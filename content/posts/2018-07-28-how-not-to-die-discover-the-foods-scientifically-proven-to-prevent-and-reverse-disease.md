@@ -11,7 +11,7 @@ Author l-f:
   - Greger, Michael
 Additional Authors:
   - Gene Stone
-myrating: 5
+myrating: ★★★★★
 publisher: Flatiron Books
 pages: 576
 yearpublished: 2015

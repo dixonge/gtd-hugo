@@ -11,7 +11,7 @@ Author l-f:
   - Osmond, Ken
 Additional Authors:
   - Christopher J. Lynch, Jerry Mathers
-myrating: 1
+myrating: ★
 pages: 235
 yearpublished: 2014
 dateread:

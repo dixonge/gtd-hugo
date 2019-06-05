@@ -11,7 +11,7 @@ Author l-f:
   - Bryson, Bill
 isbn: 307279464
 isbn13: 9780307279460
-myrating: 4
+myrating: ★★★★
 publisher: Anchor Books
 pages: 397
 yearpublished: 2006

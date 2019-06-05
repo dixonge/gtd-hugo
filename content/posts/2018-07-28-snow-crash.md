@@ -11,7 +11,7 @@ Author l-f:
   - Stephenson, Neal
 isbn: 553380958
 isbn13: 9780553380958
-myrating: 4
+myrating: ★★★★
 publisher: Bantam Books
 pages: 438
 yearpublished: 2000

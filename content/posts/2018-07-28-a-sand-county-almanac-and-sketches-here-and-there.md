@@ -11,7 +11,7 @@ Author l-f:
   - Leopold, Aldo
 isbn: 195007778
 isbn13: 9780195007770
-myrating: 5
+myrating: ★★★★★
 publisher: Oxford University Press, USA
 pages: 269
 yearpublished: 1968

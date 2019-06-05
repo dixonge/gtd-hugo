@@ -11,7 +11,7 @@ Author l-f:
   - Boo, Katherine
 isbn: 1400067553
 isbn13: 9781400067558
-myrating: 5
+myrating: ★★★★★
 publisher: Random House
 pages: 256
 yearpublished: 2012

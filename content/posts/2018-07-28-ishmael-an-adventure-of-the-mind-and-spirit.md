@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Daniel Quinn
 Author l-f:
   - Quinn, Daniel
-myrating: 5
+myrating: ★★★★★
 publisher: Bantam
 pages: 274
 yearpublished: 2009

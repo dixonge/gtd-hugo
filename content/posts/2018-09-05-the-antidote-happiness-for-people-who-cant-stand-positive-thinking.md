@@ -8,7 +8,7 @@ bookauthor: Oliver Burkeman
 dateread:
   - 20180928
 isbn13: 9780865479418
-myrating: 5
+myrating: ★★★★★
 publisher: The Text Publishing Company
 status: read
 yearpublished: 2008

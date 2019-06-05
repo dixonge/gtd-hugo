@@ -11,7 +11,7 @@ Author l-f:
   - Sigler, Scott
 isbn: 307406105
 isbn13: 9780307406101
-myrating: 5
+myrating: ★★★★★
 publisher: Crown
 pages: 342
 yearpublished: 2008

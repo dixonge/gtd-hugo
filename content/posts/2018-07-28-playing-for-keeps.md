@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Mur Lafferty
 Author l-f:
   - Lafferty, Mur
-myrating: 4
+myrating: ★★★★
 pages: 260
 yearpublished: 2008
 status: read

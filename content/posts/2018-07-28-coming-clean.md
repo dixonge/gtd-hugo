@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Kimberly Rae Miller
 Author l-f:
   - Miller, Kimberly Rae
-myrating: 5
+myrating: ★★★★★
 pages: 271
 yearpublished: 2013
 dateread:

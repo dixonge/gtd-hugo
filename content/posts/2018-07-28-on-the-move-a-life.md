@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Oliver Sacks
 Author l-f:
   - Sacks, Oliver
-myrating: 5
+myrating: ★★★★★
 publisher: Knopf
 pages: 416
 yearpublished: 2015

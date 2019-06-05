@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Rob Swigart
 Author l-f:
   - Swigart, Rob
-myrating: 5
+myrating: ★★★★★
 publisher: booksBnimble
 pages: 623
 yearpublished: 2016

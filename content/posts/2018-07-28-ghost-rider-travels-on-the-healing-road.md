@@ -11,7 +11,7 @@ Author l-f:
   - Peart, Neil
 isbn: 1550225480
 isbn13: 9781550225488
-myrating: 5
+myrating: ★★★★★
 publisher: ECW Press
 pages: 460
 yearpublished: 2002

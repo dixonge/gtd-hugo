@@ -11,7 +11,7 @@ Author l-f:
   - Mayle, Peter
 isbn: 679731148
 isbn13: 9780679731146
-myrating: 5
+myrating: ★★★★★
 publisher: Vintage
 pages: 207
 yearpublished: 1991

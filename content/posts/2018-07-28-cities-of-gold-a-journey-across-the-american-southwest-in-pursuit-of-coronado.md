@@ -11,7 +11,7 @@ Author l-f:
   - Preston, Douglas
 isbn: 671737597
 isbn13: 9780671737597
-myrating: 5
+myrating: ★★★★★
 publisher: 'Simon & Schuster'
 pages: 480
 yearpublished: 1992

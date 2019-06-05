@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Greg Crites
 Author l-f:
   - Crites, Greg
-myrating: 5
+myrating: ★★★★★
 publisher: veinarmor
 pages: 177
 yearpublished: 2010

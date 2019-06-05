@@ -13,7 +13,7 @@ Additional Authors:
   - Robert G. Mondavi
 isbn: 743297326
 isbn13: 9780743297325
-myrating: 5
+myrating: ★★★★★
 publisher: Scribner
 pages: 336
 yearpublished: 2006

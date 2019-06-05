@@ -9,7 +9,7 @@ Book Id:
 bookauthor: "Terrence O'Brien"
 Author l-f:
   - "O'Brien, Terrence"
-myrating: 5
+myrating: ★★★★★
 publisher: Ardgroom Circle
 pages: 412
 yearpublished: 2010

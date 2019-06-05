@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Martha Stout
 Author l-f:
   - Stout, Martha
-myrating: 5
+myrating: ★★★★★
 publisher: Harmony
 pages: 256
 yearpublished: 2005

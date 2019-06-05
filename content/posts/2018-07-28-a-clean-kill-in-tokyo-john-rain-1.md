@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Barry Eisler
 Author l-f:
   - Eisler, Barry
-myrating: 5
+myrating: ★★★★★
 publisher: Barry Eisler
 pages: 363
 yearpublished: 2002

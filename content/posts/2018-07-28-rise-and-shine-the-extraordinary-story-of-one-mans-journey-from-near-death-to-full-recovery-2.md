@@ -11,7 +11,7 @@ Author l-f:
   - Lewis, Simon
 isbn: 1595800514
 isbn13: 9781595800510
-myrating: 5
+myrating: ★★★★★
 publisher: Santa Monica Press
 pages: 360
 yearpublished: 2010

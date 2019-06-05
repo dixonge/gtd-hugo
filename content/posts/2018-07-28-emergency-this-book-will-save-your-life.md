@@ -11,7 +11,7 @@ Author l-f:
   - Strauss, Neil
 isbn: 60898771
 isbn13: 9780060898779
-myrating: 2
+myrating: ★★
 publisher: It Books
 pages: 432
 yearpublished: 2009

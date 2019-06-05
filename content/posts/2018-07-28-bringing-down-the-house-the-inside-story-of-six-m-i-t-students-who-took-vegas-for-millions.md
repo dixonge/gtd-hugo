@@ -11,7 +11,7 @@ Author l-f:
   - Mezrich, Ben
 isbn: 743225708
 isbn13: 9780743225700
-myrating: 5
+myrating: ★★★★★
 publisher: Free Press
 pages: 272
 yearpublished: 2002

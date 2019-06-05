@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Chevy Stevens
 Author l-f:
   - Stevens, Chevy
-myrating: 5
+myrating: ★★★★★
 publisher: "St. Martin's Press"
 pages: 385
 yearpublished: 2015

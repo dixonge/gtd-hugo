@@ -11,7 +11,7 @@ Author l-f:
   - Strayed, Cheryl
 isbn: 307592731
 isbn13: 9780307592736
-myrating: 5
+myrating: ★★★★★
 publisher: Knopf
 pages: 315
 yearpublished: 2012

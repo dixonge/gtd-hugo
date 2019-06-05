@@ -8,7 +8,7 @@ bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn: 
 isbn13: 9780062190376
-myrating: 5
+myrating: ★★★★★
 publisher: Harper Collins
 pages: 867
 yearpublished: 2015

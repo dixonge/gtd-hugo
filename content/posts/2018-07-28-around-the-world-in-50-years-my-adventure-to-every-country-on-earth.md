@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Albert Podell
 Author l-f:
   - Podell, Albert
-myrating: 5
+myrating: ★★★★★
 publisher: Thomas Dunne Books
 pages: 368
 yearpublished: 2015

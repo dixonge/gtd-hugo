@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Robert Gregory Browne
 Author l-f:
   - Browne, Robert Gregory
-myrating: 5
+myrating: ★★★★★
 publisher: Penname Press/Braun Haus Media
 pages: 375
 yearpublished: 2012

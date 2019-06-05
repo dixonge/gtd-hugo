@@ -11,7 +11,7 @@ Author l-f:
   - Selznick, Matthew Wayne
 isbn: 141165661X
 isbn13: 9781411656611
-myrating: 4
+myrating: ★★★★
 publisher: MWS MMedia
 pages: 1
 status: read

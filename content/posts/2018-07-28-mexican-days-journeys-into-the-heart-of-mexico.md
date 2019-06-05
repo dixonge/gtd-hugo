@@ -11,7 +11,7 @@ Author l-f:
   - Cohan, Tony
 isbn: 767920910
 isbn13: 9780767920919
-myrating: 5
+myrating: ★★★★★
 publisher: Broadway Books
 pages: 288
 yearpublished: 2007

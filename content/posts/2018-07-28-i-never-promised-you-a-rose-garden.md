@@ -11,7 +11,7 @@ Author l-f:
   - Green, Hannah
 Additional Authors:
   - Joanne Greenberg
-myrating: 5
+myrating: ★★★★★
 pages: 288
 dateread:
   - 2017/09/13

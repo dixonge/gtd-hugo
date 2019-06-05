@@ -11,7 +11,7 @@ Author l-f:
   - Sisson, Mark
 isbn: 982207700
 isbn13: 9780982207703
-myrating: 4
+myrating: ★★★★
 publisher: Primal Nutrition
 pages: 283
 yearpublished: 2009

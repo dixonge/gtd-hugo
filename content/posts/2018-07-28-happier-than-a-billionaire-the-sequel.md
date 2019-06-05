@@ -12,7 +12,7 @@ Author l-f:
   - Pisani, Nadine Hays
 isbn: 1481098225
 isbn13: 9781481098229
-myrating: 3
+myrating: ★★★
 publisher: Createspace Independent Publishing Platform
 pages: 320
 yearpublished: 2012

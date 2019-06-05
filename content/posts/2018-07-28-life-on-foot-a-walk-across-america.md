@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Nate Damm
 Author l-f:
   - Damm, Nate
-myrating: 5
+myrating: ★★★★★
 pages: 286
 yearpublished: 2014
 status: read

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Garth Stein
 Author l-f:
   - Stein, Garth
-myrating: 5
+myrating: ★★★★★
 publisher: HarperCollins e-books
 pages: 338
 yearpublished: 2009

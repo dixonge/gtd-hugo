@@ -11,7 +11,7 @@ Author l-f:
   - Harwood, Seth J.
 isbn: 1461160278
 isbn13: 9781461160274
-myrating: 4
+myrating: ★★★★
 publisher: Createspace
 pages: 370
 yearpublished: 2011

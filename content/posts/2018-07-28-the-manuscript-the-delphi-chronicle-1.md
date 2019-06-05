@@ -10,7 +10,7 @@ bookauthor: Russell Blake
 Author l-f:
   - Blake, Russell
 isbn13: 9781619796171
-myrating: 4
+myrating: ★★★★
 publisher: Smashwords
 yearpublished: 2011
 status: read

@@ -11,7 +11,7 @@ Author l-f:
   - Preston, Richard
 isbn: 1400064899
 isbn13: 9781400064892
-myrating: 5
+myrating: ★★★★★
 publisher: Random House (NY)
 pages: 294
 yearpublished: 2007

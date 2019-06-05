@@ -11,7 +11,7 @@ Author l-f:
   - Lansing, Alfred
 isbn: 078670621X
 isbn13: 9780786706211
-myrating: 4
+myrating: ★★★★
 publisher: 'Carroll & Graf Publishers'
 pages: 282
 yearpublished: 1959

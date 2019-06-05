@@ -10,7 +10,7 @@ bookauthor: Joe Kimball
 Author l-f:
   - Kimball, Joe
 isbn13: 9780985588038
-myrating: 4
+myrating: ★★★★
 publisher: 'Dystel & Goderich Literary Management'
 pages: 278
 yearpublished: 2012

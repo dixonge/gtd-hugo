@@ -10,7 +10,7 @@ bookauthor: Michael Connelly
 Author l-f:
   - Connelly, Michael
 isbn13: 9780759598553
-myrating: 5
+myrating: ★★★★★
 publisher: Orion
 pages: 400
 yearpublished: 1997

@@ -8,7 +8,7 @@ bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn: 
 isbn13: 9780061977961
-myrating: 5
+myrating: ★★★★★
 publisher: William Morrow
 pages: 1044
 yearpublished: 2011

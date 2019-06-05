@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Seth Harwood
 Author l-f:
   - Harwood, Seth
-myrating: 5
+myrating: ★★★★★
 pages: 240
 status: read
 categories:

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Nelson DeMille
 Author l-f:
   - DeMille, Nelson
-myrating: 5
+myrating: ★★★★★
 pages: 608
 dateread:
   - 2016/02/28

@@ -11,7 +11,7 @@ Author l-f:
   - Cohan, Tony
 isbn: 747553653
 isbn13: 9780747553656
-myrating: 5
+myrating: ★★★★★
 publisher: Bloomsbury Publishing PLC
 yearpublished: 2001
 status: read

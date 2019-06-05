@@ -11,7 +11,7 @@ Author l-f:
   - Heinlein, Robert A.
 isbn: 340837942
 isbn13: 9780340837948
-myrating: 5
+myrating: ★★★★★
 publisher: 'Hodder & Stoughton'
 pages: 288
 yearpublished: 2005

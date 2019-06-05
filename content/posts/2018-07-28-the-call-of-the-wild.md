@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Jack London
 Author l-f:
   - London, Jack
-myrating: 5
+myrating: ★★★★★
 pages: 150
 yearpublished: 2012
 dateread:

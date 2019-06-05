@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Jon Katz
 Author l-f:
   - Katz, Jon
-myrating: 5
+myrating: ★★★★★
 dateread:
   - 2016/06/06
 status: read

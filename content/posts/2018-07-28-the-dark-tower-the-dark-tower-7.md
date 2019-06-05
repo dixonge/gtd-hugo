@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Stephen King
 Author l-f:
   - King, Stephen
-myrating: 5
+myrating: ★★★★★
 pages: 1072
 dateread:
   - 2016/02/18

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Douglas E. Richards
 Author l-f:
   - Richards, Douglas E.
-myrating: 4
+myrating: ★★★★
 publisher: Paragon Press
 pages: 352
 yearpublished: 2012

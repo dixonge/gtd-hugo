@@ -13,7 +13,7 @@ Additional Authors:
   - Everett Ruess
 isbn: 879052104
 isbn13: 9780879052102
-myrating: 5
+myrating: ★★★★★
 publisher: Gibbs Smith
 pages: 228
 yearpublished: 1973

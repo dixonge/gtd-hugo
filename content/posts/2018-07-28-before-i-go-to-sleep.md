@@ -9,7 +9,7 @@ Book Id:
 bookauthor: S.J. Watson
 Author l-f:
   - Watson, S.J.
-myrating: 5
+myrating: ★★★★★
 publisher: HarperCollins e-books
 pages: 371
 yearpublished: 2014

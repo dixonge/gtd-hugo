@@ -11,7 +11,7 @@ Author l-f:
   - Mari, Christopher
 Additional Authors:
   - Jeremy K. Brown
-myrating: 3
+myrating: ★★★
 publisher: 47North
 pages: 410
 yearpublished: 2016

@@ -13,7 +13,7 @@ Additional Authors:
   - Peter R. Mitchell, John Schoeffel
 isbn: 1565847032
 isbn13: 9781565847033
-myrating: 4
+myrating: ★★★★
 publisher: The New Press
 pages: 416
 yearpublished: 2002

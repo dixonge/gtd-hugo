@@ -10,7 +10,7 @@ bookauthor: Robert Louis DeMayo
 Author l-f:
   - DeMayo, Robert Louis
 isbn13: 9780991118328
-myrating: 4
+myrating: ★★★★
 publisher: Wayward Publishing
 pages: 314
 yearpublished: 2014

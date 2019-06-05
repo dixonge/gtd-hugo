@@ -9,7 +9,7 @@ Book Id:
 bookauthor: N.K. Jemisin
 Author l-f:
   - Jemisin, N.K.
-myrating: 5
+myrating: ★★★★★
 publisher: Orbit
 pages: 496
 yearpublished: 2015

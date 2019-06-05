@@ -11,7 +11,7 @@ Author l-f:
   - Hoffman, Nathaniel
 Additional Authors:
   - Nicole Salgado
-myrating: 4
+myrating: ★★★★
 publisher: Cordillera West Books
 pages: 315
 yearpublished: 2013

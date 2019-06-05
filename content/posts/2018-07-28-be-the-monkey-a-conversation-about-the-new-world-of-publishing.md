@@ -11,7 +11,7 @@ Author l-f:
   - Eisler, Barry
 Additional Authors:
   - J.A. Konrath, Jack Kilborn
-myrating: 5
+myrating: ★★★★★
 pages: 145
 status: read
 categories:

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Stuart Peel
 Author l-f:
   - Peel, Stuart
-myrating: 4
+myrating: ★★★★
 pages: 329
 yearpublished: 2012
 status: read

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Lori Schafer
 Author l-f:
   - Schafer, Lori
-myrating: 4
+myrating: ★★★★
 pages: 110
 yearpublished: 2014
 dateread:

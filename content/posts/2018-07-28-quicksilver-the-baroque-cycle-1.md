@@ -11,7 +11,7 @@ Author l-f:
   - Stephenson, Neal
 isbn: 60593083
 isbn13: 9780060593087
-myrating: 5
+myrating: ★★★★★
 publisher: Harper Perennial
 pages: 927
 yearpublished: 2004

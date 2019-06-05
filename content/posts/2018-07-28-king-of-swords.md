@@ -10,7 +10,7 @@ Book Id:
 bookauthor: Russell Blake
 Author l-f:
   - Blake, Russell
-myrating: 5
+myrating: ★★★★★
 publisher: Manana Publishing
 pages: 306
 status: read

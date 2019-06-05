@@ -11,7 +11,7 @@ Author l-f:
   - Bob, Cabo
 Additional Authors:
   - Linton Robinson, Escrit Lit, Jessica Creager
-myrating: 1
+myrating: ★
 pages: 159
 yearpublished: 2014
 status: read

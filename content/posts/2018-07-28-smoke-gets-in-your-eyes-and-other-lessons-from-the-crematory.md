@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Caitlin Doughty
 Author l-f:
   - Doughty, Caitlin
-myrating: 5
+myrating: ★★★★★
 publisher: 'W. W. Norton & Company'
 pages: 256
 yearpublished: 2014

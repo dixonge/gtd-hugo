@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Anonymous
 Author l-f:
   - Anonymous, Anonymous
-myrating: 1
+myrating: ★
 pages: 1590
 yearpublished: 2008
 dateread:

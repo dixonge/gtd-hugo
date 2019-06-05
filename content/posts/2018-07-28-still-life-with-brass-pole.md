@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Craig Machen
 Author l-f:
   - Machen, Craig
-myrating: 4
+myrating: ★★★★
 pages: 280
 yearpublished: 2011
 status: read

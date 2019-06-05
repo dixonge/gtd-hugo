@@ -11,7 +11,7 @@ author_l-f: Kerman, Piper
 dateread:
   - 201620160812
 isbn13: 9780812986181
-myrating: 5
+myrating: ★★★★★
 pages: 322
 publisher: 'Spiegel & Grau'
 status: read

@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Russell Blake
 Author l-f:
   - Blake, Russell
-myrating: 5
+myrating: ★★★★★
 pages: 191
 yearpublished: 2011
 status: read

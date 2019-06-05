@@ -11,7 +11,7 @@ bookauthor: Spike Gillespie
 author_l-f: Gillespie, Spike
 dateread:
   - 20160704
-myrating: 5
+myrating: ★★★★★
 pages: 236
 publisher: March Girls Studio
 status: read

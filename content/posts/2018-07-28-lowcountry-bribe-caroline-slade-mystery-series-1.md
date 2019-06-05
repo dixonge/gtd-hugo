@@ -12,7 +12,7 @@ Author l-f:
   - Clark, C. Hope
 isbn: 1611940907
 isbn13: 9781611940909
-myrating: 3
+myrating: ★★★
 publisher: Bell Bridge Books
 pages: 272
 yearpublished: 2012

@@ -13,7 +13,7 @@ Additional Authors:
   - Caleb Carr, Jordan Stump
 isbn: 812972120
 isbn13: 9780812972122
-myrating: 5
+myrating: ★★★★★
 publisher: Modern Library
 pages: 723
 yearpublished: 2004

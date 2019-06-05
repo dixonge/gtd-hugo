@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Tom Abrahams
 Author l-f:
   - Abrahams, Tom
-myrating: 2
+myrating: ★★
 publisher: Piton Press
 pages: 278
 yearpublished: 2015

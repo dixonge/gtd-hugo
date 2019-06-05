@@ -11,7 +11,7 @@ Author l-f:
   - Connelly, Michael
 isbn: 312941919
 isbn13: 9780312941918
-myrating: 5
+myrating: ★★★★★
 publisher: "St. Martin's Paperbacks"
 pages: 448
 yearpublished: 2006

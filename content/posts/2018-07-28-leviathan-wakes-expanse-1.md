@@ -9,7 +9,7 @@ Book Id:
 bookauthor: James S.A. Corey
 Author l-f:
   - Corey, James S.A.
-myrating: 5
+myrating: ★★★★★
 publisher: Orbit
 pages: 583
 dateread:

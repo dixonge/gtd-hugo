@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Chris Smith
 Author l-f:
   - Smith, Chris
-myrating: 4
+myrating: ★★★★
 pages: 144
 yearpublished: 2018
 dateread:

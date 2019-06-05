@@ -11,7 +11,7 @@ Author l-f:
   - Krakauer, Jon
 isbn: 385486804
 isbn13: 9780385486804
-myrating: 5
+myrating: ★★★★★
 publisher: Anchor Books
 pages: 207
 yearpublished: 1997

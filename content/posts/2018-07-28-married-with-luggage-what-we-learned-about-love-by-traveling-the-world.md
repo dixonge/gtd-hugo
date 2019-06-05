@@ -11,7 +11,7 @@ Author l-f:
   - Talbot, Warren
 Additional Authors:
   - Betsy Talbot
-myrating: 5
+myrating: ★★★★★
 publisher: ES Scott Publishing
 pages: 280
 yearpublished: 2014

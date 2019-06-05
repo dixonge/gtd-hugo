@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Ken Forkish
 Author l-f:
   - Forkish, Ken
-myrating: 3
+myrating: ★★★
 publisher: Ten Speed Press
 pages: 272
 yearpublished: 2012

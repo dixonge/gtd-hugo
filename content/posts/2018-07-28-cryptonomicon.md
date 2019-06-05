@@ -11,7 +11,7 @@ Author l-f:
   - Stephenson, Neal
 isbn: 60512806
 isbn13: 9780060512804
-myrating: 5
+myrating: ★★★★★
 publisher: Avon
 pages: 1139
 yearpublished: 2002

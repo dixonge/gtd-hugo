@@ -11,7 +11,7 @@ Author l-f:
   - Dawkins, Richard
 isbn: 618680004
 isbn13: 9780618680009
-myrating: 5
+myrating: ★★★★★
 publisher: Houghton Mifflin Co. (Boston/NY)
 pages: 374
 yearpublished: 2006

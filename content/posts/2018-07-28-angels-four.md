@@ -11,7 +11,7 @@ Author l-f:
   - Nott, David
 isbn: 130367982
 isbn13: 9780130367983
-myrating: 4
+myrating: ★★★★
 publisher: Prentice Hall
 pages: 191
 yearpublished: 1972

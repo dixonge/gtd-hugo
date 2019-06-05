@@ -11,7 +11,7 @@ Author l-f:
   - Brown, Dan
 isbn: 1416524797
 isbn13: 9781416524793
-myrating: 4
+myrating: ★★★★
 publisher: Pocket Books
 pages: 736
 yearpublished: 2006

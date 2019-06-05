@@ -11,7 +11,7 @@ Author l-f:
   - Connelly, Michael
 isbn: 316734950
 isbn13: 9780316734950
-myrating: 5
+myrating: ★★★★★
 publisher: 'Little, Brown & Company'
 pages: 405
 yearpublished: 2006

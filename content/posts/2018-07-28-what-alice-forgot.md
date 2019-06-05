@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Liane Moriarty
 Author l-f:
   - Moriarty, Liane
-myrating: 5
+myrating: ★★★★★
 publisher: Berkley
 pages: 496
 yearpublished: 2011

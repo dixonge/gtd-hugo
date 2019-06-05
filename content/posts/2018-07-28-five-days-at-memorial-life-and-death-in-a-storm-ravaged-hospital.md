@@ -9,7 +9,7 @@ Book Id:
 bookauthor: 'Sheri  Fink'
 Author l-f:
   - Fink, Sheri
-myrating: 5
+myrating: ★★★★★
 publisher: Broadway Books
 pages: 602
 yearpublished: 2013

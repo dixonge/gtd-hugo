@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Glenn Greenwald
 Author l-f:
   - Greenwald, Glenn
-myrating: 5
+myrating: ★★★★★
 publisher: Metropolitan Books
 pages: 304
 yearpublished: 2014

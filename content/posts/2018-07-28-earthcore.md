@@ -11,7 +11,7 @@ Author l-f:
   - Sigler, Scott
 isbn: 1896944329
 isbn13: 9781896944326
-myrating: 5
+myrating: ★★★★★
 publisher: Dragon Moon Press
 pages: 320
 yearpublished: 2005

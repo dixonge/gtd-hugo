@@ -11,7 +11,7 @@ Author l-f:
   - Edmonds, Sibel
 isbn: 615602223
 isbn13: 9780615602226
-myrating: 4
+myrating: ★★★★
 publisher: Sibel Edmonds, Alexandria Virginia
 pages: 342
 yearpublished: 2012

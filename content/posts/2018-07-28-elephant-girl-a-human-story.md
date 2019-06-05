@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Jane Devin
 Author l-f:
   - Devin, Jane
-myrating: 5
+myrating: ★★★★★
 pages: 488
 yearpublished: 2011
 dateread:

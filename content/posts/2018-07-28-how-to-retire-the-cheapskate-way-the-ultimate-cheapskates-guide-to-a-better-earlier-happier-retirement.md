@@ -9,7 +9,7 @@ Book Id:
 bookauthor: Jeff Yeager
 Author l-f:
   - Yeager, Jeff
-myrating: 4
+myrating: ★★★★
 publisher: Crown Business
 pages: 320
 yearpublished: 2013

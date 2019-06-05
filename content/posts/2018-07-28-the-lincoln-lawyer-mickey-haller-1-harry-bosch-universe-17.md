@@ -10,7 +10,7 @@ bookauthor: Michael Connelly
 Author l-f:
   - Connelly, Michael
 isbn13: 9780752877792
-myrating: 5
+myrating: ★★★★★
 publisher: Little, Brown
 pages: 404
 yearpublished: 2005

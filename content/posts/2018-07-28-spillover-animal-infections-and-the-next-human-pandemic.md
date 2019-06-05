@@ -9,7 +9,7 @@ Book Id:
 bookauthor: David Quammen
 Author l-f:
   - Quammen, David
-myrating: 5
+myrating: ★★★★★
 publisher: 'W. W. Norton & Company'
 pages: 592
 yearpublished: 2012

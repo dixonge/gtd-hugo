@@ -11,7 +11,7 @@ Author l-f:
   - Connelly, Michael
 isbn: 446613444
 isbn13: 9780446613446
-myrating: 5
+myrating: ★★★★★
 publisher: Vision
 pages: 448
 yearpublished: 2003
