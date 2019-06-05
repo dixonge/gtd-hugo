@@ -6,6 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
 summaryLength   = 25
+NewContentEditor = "code"
 
 [params]
   title       = "Glenn 2.0"

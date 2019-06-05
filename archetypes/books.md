@@ -1,20 +1,21 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+type: post
 author: Glenn Dixon
+yearpublished: 
 bookauthor: 
 author_l-f: 
-isbn: 
-isbn13: 
-myrating: 
 publisher: 
-pages: 
-yearpublished: 
+myrating: 
+isbn13: 
 status: 
+pages: 
 categories:
   - GoodReads
 tags:
   - books
 
 ---
+
+** Review goes here **
