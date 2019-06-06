@@ -19,6 +19,7 @@
           </header>
       </a>
       <section class="post-card-excerpt" style="padding: 0 25px;">
+      <div class="book-left">
         {{if .Params.isbn13}}
         <a class="post-card-image-link u-url" href="https://openlibrary.org/isbn/{{ .Params.isbn13 }}">
             <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn13 }}.jpg"></img>
@@ -28,12 +29,15 @@
             <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg"></img>
         </a>
         {{end}}
+    </div>
+    <div class="book-right">
         {{if in .Params.tags "books"}}
         <div>By {{ .Params.bookauthor }} - {{ .Params.yearpublished }}</div>
         <div>{{ .Params.publisher }} - {{ .Params.pages }} pages</div>
         <div>Rating: {{ .Params.myrating }} - Status: {{ .Params.status }}</div>
         {{end}}
           {{ .Content }}
+    </div>
       </section>
 
       <footer class="post-card-meta h-card vcard">

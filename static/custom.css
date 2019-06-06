@@ -34,9 +34,20 @@
     padding: 2vw 2vw;
 }
 
-.kg-card-markdown {
-    align-items: left;
+.post-full-content img {
+    display: inline-block;
+    margin: 0 0;
 }
+
+.kg-card-markdown {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+  }
+
+  .book-left, .book-right {
+      flex: 50%;
+  }
 
 .post-full-image {
     margin: 0 auto;
@@ -56,6 +67,10 @@
 
 .post-full-content {
     padding: 10px 60px 0;
+}
+
+.post-full-content a {
+    box-shadow: none;
 }
 
 .home-template .site-nav {
