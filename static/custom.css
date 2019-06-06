@@ -41,6 +41,7 @@
 
 .post-card-image {
     background-size: contain;
+    width: 100%;
 }
 
 .home-template .site-nav {
