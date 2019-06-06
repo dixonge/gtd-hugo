@@ -39,9 +39,17 @@
     height: 300px;
 }
 
+.post-card-image-link {
+    width: 100%;
+}
+
 .post-card-image {
     background-size: contain;
-    width: 100%;
+    margin: 0 auto;
+}
+
+.post-full-content {
+    padding: 10px 60px 0;
 }
 
 .home-template .site-nav {

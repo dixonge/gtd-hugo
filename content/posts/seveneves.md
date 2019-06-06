@@ -6,7 +6,6 @@ type: post
 author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
-isbn: 
 isbn13: 9780062190376
 myrating: ★★★★★
 publisher: Harper Collins

@@ -20,11 +20,13 @@
       </a>
       <section class="post-card-excerpt" style="padding: 0 25px;">
         {{if .Params.isbn13}}
-            <div class="post-card-image" style="background-image: url(http://covers.openlibrary.org/b/isbn/{{ .Params.isbn13 }}.jpg)"></div>
+            <div class="post-card-image" style="background-image: url(https://covers.openlibrary.org/b/isbn/{{ .Params.isbn13 }}.jpg)"></div>
         {{end}}
-        <p>By {{ .Params.bookauthor }} - {{ .Params.yearpublished }}</p>
-        <p>{{ .Params.publisher }} - {{ .Params.pages }} pages</p>
-        <p>Rating: {{ .Params.myrating }} - Status: {{ .Params.status }}</p>
+        {{if in .Params.tags "books"}}
+        <div>By {{ .Params.bookauthor }} - {{ .Params.yearpublished }}</div>
+        <div>{{ .Params.publisher }} - {{ .Params.pages }} pages</div>
+        <div>Rating: {{ .Params.myrating }} - Status: {{ .Params.status }}</div>
+        {{end}}
           {{ .Content }}
       </section>
 
