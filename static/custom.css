@@ -34,6 +34,10 @@
     padding: 2vw 2vw;
 }
 
+.kg-card-markdown {
+    align-items: left;
+}
+
 .post-full-image {
     margin: 0 auto;
     height: 300px;
@@ -46,6 +50,8 @@
 .post-card-image {
     background-size: contain;
     margin: 0 auto;
+    background: white no-repeat 50%;
+    height: 448px;
 }
 
 .post-full-content {
