@@ -14,26 +14,32 @@
     {{end}}
 
     <section class="post-full-content e-content">
-        <div class="kg-card-markdown">
-                <div class="book-left">
-            {{if .Params.isbn13}}
-            <a class="post-card-image-link u-url" href="https://openlibrary.org/isbn/{{ .Params.isbn13 }}">
-                <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn13 }}.jpg"></img>
-            </a>
-            {{else if .Params.isbn}}
-            <a class="post-card-image-link u-url" href="https://openlibrary.org/isbn/{{ .Params.isbn }}">
-                <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg"></img>
-            </a>
-            {{end}}
+            {{if in .Params.tags "books"}}
+            <div class="book-card-markdown">
+                    <div class="book-left">
+                {{if .Params.isbn13}}
+                <a class="book-image-link u-url" href="https://openlibrary.org/isbn/{{ .Params.isbn13 }}">
+                    <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn13 }}.jpg"></img>
+                </a>
+               {{else if .Params.isbn}}
+                <a class="book-image-link u-url" href="https://openlibrary.org/isbn/{{ .Params.isbn }}">
+                <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg"></img>
+                 </a>
+               {{end}}
                 </div>
                 <div class="book-right">
-            {{if in .Params.tags "books"}}
-        <div>By {{ .Params.bookauthor }} - {{ .Params.yearpublished }}</div>
-        <div>{{ .Params.publisher }} - {{ .Params.pages }} pages</div>
-        <div>Rating: {{ .Params.myrating }} - Status: {{ .Params.status }}</div>
-        {{end}}
-        {{ .Content }}    
+                <div>By {{ .Params.bookauthor }} - {{ .Params.yearpublished }}</div>
+                <div>{{ .Params.publisher }} - {{ .Params.pages }} pages</div>
+                <div>Rating: {{ .Params.myrating }} - Status: {{ .Params.status }}</div>
+                {{ .Content }}    
                 </div>
+            </div>
+            
+            {{else if ne .Params.tags "books"}}
+            <div class="kg-card-markdown">
+                    {{ .Content }}
+            </div>
+            {{end}}
         </div>
     </section>
 

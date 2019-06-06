@@ -3,12 +3,12 @@
 
 <article class="post-card post"> 
     {{if .Params.isbn13}}
-    <a class="post-card-image-link u-url" href="{{ .Permalink }}">
-        <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{.Params.isbn13}}.jpg"></img>
+    <a class="book-image-link u-url" href="{{ .Permalink }}">
+        <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{.Params.isbn13}}.jpg"></img>
       </a>
     {{else if .Params.isbn}}
-    <a class="post-card-image-link u-url" href="{{ .Permalink }}">
-        <img class="post-card-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg"></img>
+    <a class="book-image-link u-url" href="{{ .Permalink }}">
+        <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ .Params.isbn }}.jpg"></img>
       </a>
       {{else if in .Params.tags "links" }}
       <a class="post-card-image-link u-url" href="{{ .Permalink }}">

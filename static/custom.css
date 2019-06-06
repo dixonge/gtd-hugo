@@ -39,31 +39,36 @@
     margin: 0 0;
 }
 
-.kg-card-markdown {
+.book-card-markdown {
     display: flex;
     flex-direction: row;
     align-items: start;
   }
 
-  .book-left, .book-right {
+.book-left, .book-right {
       flex: 50%;
   }
 
 .post-full-image {
     margin: 0 auto;
     height: 300px;
+    background: white no-repeat 50%;
+    background-size: contain;
 }
 
-.post-card-image-link {
+.book-image-link {
     width: 100%;
     text-align: center;
 }
 
+.book-image {
+    margin: 0 auto;
+    height: 448px;
+}
+
 .post-card-image {
     background-size: contain;
-    margin: 0 auto;
-    background: white no-repeat 50%;
-    height: 448px;
+    background: white no-repeat auto;
 }
 
 .post-full-content {
