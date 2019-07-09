@@ -19,7 +19,6 @@ NewContentEditor = "code"
 #  googleAnalytics = ""
   customCSS = ["custom.css"]
   RSSLink = "index.xml"
-  rsslimit = "50"
 
   twitterName = "coyotejano"
 #  fbName = "fakeghost"
