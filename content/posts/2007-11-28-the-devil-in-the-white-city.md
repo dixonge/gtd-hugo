@@ -2,7 +2,7 @@
 title: The Devil in the White City
 author: Glenn Dixon
 type: post
-date: 2007-11-28T15:10:54+00:00
+date: 2007-11-28
 url: /the-devil-in-the-white-city/
 book_id:
   - 259028
@@ -15,10 +15,6 @@ publisher: Vintage Books
 pages: 447
 yearpublished: 2004
 status: read
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:0:{}'
 categories:
   - GoodReads
 tags:
