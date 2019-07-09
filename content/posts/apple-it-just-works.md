@@ -1,7 +1,7 @@
 ---
 author: Glenn Dixon
 type: post
-date: 2019-07-04T12:23:24+00:00
+date: 2019-07-04
 url: apple-it-just-works
 tags:
   - notes
