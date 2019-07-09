@@ -5,20 +5,15 @@ type: post
 date: 2017-07-01T22:06:35+00:00
 url: /minimal-configuration-for-modern-laptops/
 image: /images/2018/07/chuwi.png
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-mf2_syndication:
-  - 'a:0:{}'
-status: 'null'
 categories:
   - Uncategorized
 tags:
   - posts
 
 ---
-[UPDATE: I have moved to a Lenovo ideapad laptop &#8211; also only $199 at Best Buy. No idea why, amazing laptop! New post about this soon]
+[UPDATE: I have moved to a Lenovo ideapad laptop - also only $199 at Best Buy. No idea why, amazing laptop! New post about this soon]
 
-At some point in 2014 during a visit back here in the U.S. we picked up some clearance sale laptops at BestBuy. My HP touchscreen and the wife&#8217;s Toshiba were both 15&#8243;&#8221; and at great prices. They have both performed well and handled the upgrade to Windows 10 admirably. However, now that we are preparing to move back to Mexico it seems like a good time for an upgrade. We have acquired two off-brand <a>Chinese laptops</a> that drop the spinning hard drive and any CD/DVD tray in exchange for quieter, cooler running, longer battery life, less bulk and less weight. This would probably be a good place to insert a small table 🙂
+At some point in 2014 during a visit back here in the U.S. we picked up some clearance sale laptops at BestBuy. My HP touchscreen and the wife's Toshiba were both 15&#8243;" and at great prices. They have both performed well and handled the upgrade to Windows 10 admirably. However, now that we are preparing to move back to Mexico it seems like a good time for an upgrade. We have acquired two off-brand <a>Chinese laptops</a> that drop the spinning hard drive and any CD/DVD tray in exchange for quieter, cooler running, longer battery life, less bulk and less weight. This would probably be a good place to insert a small table 🙂
 
 <table>
   <tr>
@@ -222,4 +217,4 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
 
 So one of the main tradeoffs is hard drive space. This means a transition to small USB or MicroSD cards for storage. Not a problem, actually. Backups in the cloud. All good!
 
- <img class="alignnone size-medium wp-image-24" src="/images/2018/07/chuwi12.3-300x153.png" alt="" width="300" height="153" srcset="/images/2018/07/chuwi12.3-300x153.png 300w, /images/2018/07/chuwi12.3-768x392.png 768w, /images/2018/07/chuwi12.3-1024x523.png 1024w, /images/2018/07/chuwi12.3.png 1305w" sizes="(max-width: 300px) 100vw, 300px" />For document editing Microsoft Office has a &#42;large&#42; footprint. Even LibreOffice comes in at anywhere from 800mb to over a Gigabyte. I have opted for <a>FreeOffice</a>, which clocks in at a measly 163MB! Not only did I save space, but I saved $75 on my refunded Office365 subscription. One side effect of this change was a drastic reduction in the available storage on OneDrive, which also impacted my OneNote storage space. So I replaced both of them! My new cloud storage (at least for text and spreadsheet and PDF documents) is hosted on <a>HostISO.com</a> and stored in the NextCloud app which syncs with my USB thumb drive. My new web clipper for articles I want to read later is <a>Wallabag</a>, which I am running on my Raspberry Pi. For organizing/tagging I am testing <a>TagSpaces</a>. So lighter, smaller, leaner, meaner laptops and more control over my own files and data &#8211; what&#8217;s not to love?
+ <img class="alignnone size-medium wp-image-24" src="/images/2018/07/chuwi12.3-300x153.png" alt="" width="300" height="153" srcset="/images/2018/07/chuwi12.3-300x153.png 300w, /images/2018/07/chuwi12.3-768x392.png 768w, /images/2018/07/chuwi12.3-1024x523.png 1024w, /images/2018/07/chuwi12.3.png 1305w" sizes="(max-width: 300px) 100vw, 300px" />For document editing Microsoft Office has a &#42;large&#42; footprint. Even LibreOffice comes in at anywhere from 800mb to over a Gigabyte. I have opted for <a>FreeOffice</a>, which clocks in at a measly 163MB! Not only did I save space, but I saved $75 on my refunded Office365 subscription. One side effect of this change was a drastic reduction in the available storage on OneDrive, which also impacted my OneNote storage space. So I replaced both of them! My new cloud storage (at least for text and spreadsheet and PDF documents) is hosted on <a>HostISO.com</a> and stored in the NextCloud app which syncs with my USB thumb drive. My new web clipper for articles I want to read later is <a>Wallabag</a>, which I am running on my Raspberry Pi. For organizing/tagging I am testing <a>TagSpaces</a>. So lighter, smaller, leaner, meaner laptops and more control over my own files and data - what's not to love?

@@ -11,4 +11,4 @@ tags:
   - replies
 
 ---
-Yes, THIS &#8211; this is the web experience I&#8217;m looking for. Full interaction without soul-sucking algo-timelines.
+Yes, THIS - this is the web experience I'm looking for. Full interaction without soul-sucking algo-timelines.

@@ -26,35 +26,35 @@ Prerequisites:
   * A self-hosted WordPress site 
       * Twenty Seventeen theme (could work with others)
       * [Advanced Custom Fields][1] plugin to work with extra data
-      * I am using the [post-kinds][2] plugin &#8211; not required
+      * I am using the [post-kinds][2] plugin - not required
   * Export from GoodReads > csv file 
       * My Books > Import/Export > Export Library 
-      * Clean up CSV file &#8211; spreadsheet is good, be sure to save it back as text/csv (not xls or odt) 
+      * Clean up CSV file - spreadsheet is good, be sure to save it back as text/csv (not xls or odt) 
           * remove un-needed/unwanted columns 
           * relabel columns to match WordPress fields (**Important!**) 
-              * post_type column &#8211; all should be set to _post_ 
-              * post_title column &#8211; for book titles 
-              * post_content column &#8211; for the actual content of your review 
-              * post_excerpt column &#8211; for the actual content of your review excerpt (if any) 
-              * Add column for post_kind &#8211; set it to _read_ (not sure if this will work) 
-              * Change any additional column headers to whatever you want &#8211; _these will become custom fields on import_ 
+              * post_type column - all should be set to _post_ 
+              * post_title column - for book titles 
+              * post_content column - for the actual content of your review 
+              * post_excerpt column - for the actual content of your review excerpt (if any) 
+              * Add column for post_kind - set it to _read_ (not sure if this will work) 
+              * Change any additional column headers to whatever you want - _these will become custom fields on import_ 
   * Install [Really Simple CSV Importer][3] plugin 
-      * Yes, it&#8217;s old, but it still works! 
-      * Run import (Tools > Import > CSV&#8211;Run Importer) 
+      * Yes, it's old, but it still works! 
+      * Run import (Tools > Import > CSV-Run Importer) 
       * The posts should automatically be set to draft status
-      * On import, it seems to take the post date from the &#8216;date read&#8217; column, which is ideal 
+      * On import, it seems to take the post date from the 'date read' column, which is ideal 
       * Once you hit publish, the date is reset to the current day and is irretrievably lost! 
-          * Possible workaround is to use SQL to copy the date from the date-read custom field back to the publish date (haven&#8217;t done this yet) 
-      * If the post kind isn&#8217;t set you&#8217;ll need to use an SQL query in PHPMyAdmin
+          * Possible workaround is to use SQL to copy the date from the date-read custom field back to the publish date (haven't done this yet) 
+      * If the post kind isn't set you'll need to use an SQL query in PHPMyAdmin
 
-After import you&#8217;ll need to add some PHP and CSS to display the new custom fields, most likely inside the_loop &#8211; where this is will depend on your theme. For Twenty Seventeen I did the officially recommended child theme and am inserting my code there under Template Parts > Post > content.php &#8211; here is my code, just to give you an example. This php statement pulls in the number of pages, which is one of the columns I imported:
+After import you'll need to add some PHP and CSS to display the new custom fields, most likely inside the_loop - where this is will depend on your theme. For Twenty Seventeen I did the officially recommended child theme and am inserting my code there under Template Parts > Post > content.php - here is my code, just to give you an example. This php statement pulls in the number of pages, which is one of the columns I imported:
 
     <?php
     $pages = get_post_meta($post->ID, 'pages', true);
     ?>
     
 
-Your pages will now be assigned to the &#8216;$pages&#8217; variable, which you can use to display that number like this:
+Your pages will now be assigned to the '$pages' variable, which you can use to display that number like this:
 
     <?php 
     if ($pages) { ?>

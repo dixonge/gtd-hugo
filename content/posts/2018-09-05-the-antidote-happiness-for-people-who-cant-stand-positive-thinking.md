@@ -20,26 +20,26 @@ tags:
   - books
 
 ---
-**The Antidote &#8211; Synopsis**
+**The Antidote - Synopsis**
 
 _A negative path to happiness_
 
-Pursuing happiness often makes us miserable &#8211; negative things which we attempt to eliminate cause us to feel/experience those very things
+Pursuing happiness often makes us miserable - negative things which we attempt to eliminate cause us to feel/experience those very things
 
-  * Buddhism &#8211; grasping at what we like and pushing away what we don&#8217;t like &#8211; both constitute attachment
-  * Stop trying to fix &#8211; give up control &#8211; stop the _pursuit_ of happiness
-  * Meditation &#8211; stop running &#8211; observe thoughts/emotions/desires/aversions &#8211; don&#8217;t flee or try to fix or cling to them. Non-attachment. LET THE CLAMOUR BE.
+  * Buddhism - grasping at what we like and pushing away what we don't like - both constitute attachment
+  * Stop trying to fix - give up control - stop the _pursuit_ of happiness
+  * Meditation - stop running - observe thoughts/emotions/desires/aversions - don't flee or try to fix or cling to them. Non-attachment. LET THE CLAMOUR BE.
   * This is the first big step towards non-attachment: learning to view passing thoughts and feelings as if one were a spectator, not a participant. 
   * It is illuminating to note, here, how the daily rituals and working routines of prolific authors and artists – people who really do get a lot done – very rarely include techniques for ‘getting motivated’ or ‘feeling inspired’. Quite the opposite: they tend to emphasize the mechanics of the working process, focusing not on generating the right mood, but on accomplishing certain physical actions, regardless of mood.
 
 _Enjoy uncertainty_
 
-  * Goals &#8211; Goals/planning is a result of how uncomfortable we are made by feelings of uncertainty.
+  * Goals - Goals/planning is a result of how uncomfortable we are made by feelings of uncertainty.
   * Uncertainty is where things happen.
 
 _Embrace insecurity_
 
-  * Safety &#8211; ‘Things are not permanent, they don’t last, there is no final security,’ she says. What makes us miserable is not this truth, but our efforts to escape it. &#8211; Pema Chödrön
+  * Safety - ‘Things are not permanent, they don’t last, there is no final security,’ she says. What makes us miserable is not this truth, but our efforts to escape it. - Pema Chödrön
 
 (my thoughts/summary)
 
@@ -47,7 +47,7 @@ _Embrace insecurity_
 
 _Stop trying to think positively_
 
-  * Stoicism &#8211; negative visualization &#8211; the premeditation of evils
+  * Stoicism - negative visualization - the premeditation of evils
 
 _Become familiar with failure_
 
@@ -56,11 +56,11 @@ _Become familiar with failure_
 
 _Learn to value death_
 
-  * Memento Mori &#8211; complete the sentences ‘I wish I’d spent more time on … ‘, and ‘I wish I’d spent less time on … ‘. This turns out to be a surprisingly effective way to achieve mortality awareness in short order.
+  * Memento Mori - complete the sentences ‘I wish I’d spent more time on … ‘, and ‘I wish I’d spent less time on … ‘. This turns out to be a surprisingly effective way to achieve mortality awareness in short order.
 
 _OTHER_
 
-Self &#8211; ego &#8211; compulsive thinking &#8211; ego thrives on drama because compulsive thinking can sink its teeth into drama &#8211; ego thrives on focusing on the future, because it&#8217;s easier to think compulsively about the future &#8211; compulsive thinking relies on our feeling dissatisfied
+Self - ego - compulsive thinking - ego thrives on drama because compulsive thinking can sink its teeth into drama - ego thrives on focusing on the future, because it's easier to think compulsively about the future - compulsive thinking relies on our feeling dissatisfied
 
 [NOTE: So should we never attempt to better ourselves or our life?]
 
@@ -70,11 +70,11 @@ September 6-16, 2018
 
 **1 On Trying Too Hard to Be Happy**
 
-a &#8216;negative&#8217; path to happiness:
+a 'negative' path to happiness:
 
 enjoy uncertainty embrace insecurity stop trying to think positively become familiar with failure learn to value death
 
-Pursuing happiness often makes us miserable &#8211; negative things which we attempt to eliminate cause us to feel/experience those very things
+Pursuing happiness often makes us miserable - negative things which we attempt to eliminate cause us to feel/experience those very things
 
 they argued that it pointed to an alternative approach, a ‘negative path’ to happiness, that entailed taking a radically different stance towards those things that most of us spend our lives trying hard to avoid. It involved learning to enjoy uncertainty, embracing insecurity, stopping trying to think positively, becoming familiar with failure, even learning to value death.
 
@@ -112,7 +112,7 @@ tranquility results from replacing our irrational judgments with rational ones. 
 
 As the Buddha said two-and-a-half thousand years ago,’ he said, soon after we’d started talking, and jabbing a finger in my direction, ‘we’re all out of our fucking minds! That’s just the way we are.’
 
-**3 &#8211; The Storm Before the Calm**
+**3 - The Storm Before the Calm**
 
 we grasp at what we like, trying to hold onto it forever, and push away what we don’t like, trying to avoid it at all costs. Both constitute attachment
 
@@ -152,7 +152,7 @@ See what happens’, indeed, might be the motto of this entire approach to worki
 
 That says something very important about the ethical life: that it is based on a trust in the uncertainty, and on a willingness to be exposed. It’s based on being more like a plant than a jewel: something rather fragile, but whose very particular beauty is inseparable from that fragility.’
 
-**5 &#8211; Who&#8217;s There?**
+**5 - Who's There?**
 
 Maybe, in reality, you don’t have a body. Maybe you’re just a brain in a jar on a shelf in the demon’s laboratory. How could you ever be sure? The parallels here with the 1999 movie The Matrix are not coincidental: that film is essentially a twentieth-century meditation on Descartes’s seventeenth-century insights. ‘
 

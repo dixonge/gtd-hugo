@@ -25,7 +25,7 @@ Oops.
 
 And yes, I also emptied the trash. Gone. Forever.
 
-But wait! I found a backup copy, except you can&#8217;t export or import it without an Office365 subscription! Huh? Well fuck.
+But wait! I found a backup copy, except you can't export or import it without an Office365 subscription! Huh? Well fuck.
 
 So obviously, I needed a new solution for web clipping, one of the things I used OneNote for extensively. Enter [Wallabag][3].
 
@@ -35,7 +35,7 @@ First, make sure you have the [requirements in place][4]. Most of the instructio
 
 At the end of the install it will ask for user name and password, etc.
 
-DOCUMENT ROOT: This one is important, otherwise you&#8217;ll just get a blank page:
+DOCUMENT ROOT: This one is important, otherwise you'll just get a blank page:
   
 \`/var/www/wallabag/web\`
 
@@ -43,11 +43,11 @@ DOCUMENT ROOT: This one is important, otherwise you&#8217;ll just get a blank pa
 
 The important part is that you have to point your virtual host or other setup to the \`/web\` subdirectory.
 
-Once you have that working and can log in via the web interface then you need to add some content! The two main ways I&#8217;m doing that are:
+Once you have that working and can log in via the web interface then you need to add some content! The two main ways I'm doing that are:
 
-&#8211; Firefox add-on extension
+- Firefox add-on extension
   
-&#8211; Android app
+- Android app
 
 For the Firefox (or Chrome) extensions to work you have to set up a client in Wallabag. In the main menu, click on \*API Clients Management\*, click \*Create a New Client\*. Give it a name (this is just for your own internal reference) and click the \*Create a New Client\* button. This will give you the two main pieces of information you will need for the extension.
 
@@ -57,13 +57,13 @@ Next, download the extension. Most Google searches point to the old one, which l
 
 Go to the browser extension options and enter the URL for your wallabag installation and click \*Check URL\*. Once that verifies, enter the \*Client ID\*, \*Client secret\*, \*user login\* and \*password\*.
 
-\*\*THIS IS IMPORTANT\*\* &#8211; you have to click on \*Get token\*. After that you can just exit the page. You don&#8217;t have to save anything to a file, that&#8217;s optional.
+\*\*THIS IS IMPORTANT\*\* - you have to click on \*Get token\*. After that you can just exit the page. You don't have to save anything to a file, that's optional.
 
 [Detailed instructions][7] on Chrome (and Firefox) add-on setup.
 
 And it auto-saves. Once you set a tag, just walk away!
 
-The Android app is simpler to configure &#8211; just provide the URL, user name and password. Once it successfully connects, it will automatically create a client on the s
+The Android app is simpler to configure - just provide the URL, user name and password. Once it successfully connects, it will automatically create a client on the s
   
 erver!
 

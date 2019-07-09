@@ -17,18 +17,18 @@ The national anthem taught me I lived in the land of the free and the home of th
 
 In my school history textbooks, the treatment of the indigenous was presented as a war. Slavery was glossed over while the abolitionists were highlighted. I suffered very little guilt, which was rather the point.
 
-I was born at the cusp of the 60&#8217;s and for many years thought of any sort of injustice as something from the past. After all, my only source of information was history textbooks, and if it is &#8216;history&#8217; it is, by definition, in the past. I experienced very little integration in school and in the cities where we lived in Texas. I never heard my parents discuss any of this with me.
+I was born at the cusp of the 60's and for many years thought of any sort of injustice as something from the past. After all, my only source of information was history textbooks, and if it is 'history' it is, by definition, in the past. I experienced very little integration in school and in the cities where we lived in Texas. I never heard my parents discuss any of this with me.
 
-It is only in adulthood that I can finally read and research and find out just how fully injustice and racism and violence permeates the history of this so-called great nation. It isn&#8217;t something perpetrated by a few ignorant people or groups, it is the very foundation on which this nation rests. It was _never_ free or just for people of color, and in many ways this persists. It still isn&#8217;t great.
+It is only in adulthood that I can finally read and research and find out just how fully injustice and racism and violence permeates the history of this so-called great nation. It isn't something perpetrated by a few ignorant people or groups, it is the very foundation on which this nation rests. It was _never_ free or just for people of color, and in many ways this persists. It still isn't great.
 
 Just for an interesting exercise, I have looked up some historical facts regarding the fight for civil liberties in the year I was born.
 
 Two days after I was born, the first ever black students were admitted to the University of Georgia, under court order. Riots erupted, fires were set, the KKK joined in and police had to disperse the crowd of over 2,000 people and stop them from throwing rocks through dorm windows.
 
-A few months later a U.S. Congressman and other Freedom Riders were assaulted for entering the &#8216;whites only&#8217; waiting area of a bus terminal in Rock Hill, South Carolina. This is an area very close to where all of the family on my mother&#8217;s side lived, and I would not be surprised to find that they were at least sympathetic with the attackers. This violence continued for months throughout the south, most famously in Montgomery, Alabama.
+A few months later a U.S. Congressman and other Freedom Riders were assaulted for entering the 'whites only' waiting area of a bus terminal in Rock Hill, South Carolina. This is an area very close to where all of the family on my mother's side lived, and I would not be surprised to find that they were at least sympathetic with the attackers. This violence continued for months throughout the south, most famously in Montgomery, Alabama.
 
 The pattern was consistent. Protest and challenge the laws, laws are changed, racists resist, judges order compliance, and eventually federal officials have to enforce the laws with a physical presence on the ground. Segregation in schools, restaurants, public facilities, etc. was challenged and defeated over many, many years, and the price and toll was heavy. Much blood was shed. That is the world I was born into, and yet somehow remained oblivious to. Here is a sobering timeline of this decade:
 
 https://racialinjustice.eji.org/timeline/
 
-Looking back, it&#8217;s obvious that things were pretty great and just and free if you were white, especially white and male. For women and especially for people of color, America has never been great or just or free.
+Looking back, it's obvious that things were pretty great and just and free if you were white, especially white and male. For women and especially for people of color, America has never been great or just or free.

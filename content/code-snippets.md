@@ -55,7 +55,7 @@ Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfec
     find . -iname pattern.ext -exec rename 's/oldname/newname/' '{}' \;
     
 
-If the file name is the same, just use filename instead of &#8216;pattern.ext&#8217; &#8211; if the file names are different, use a pattern like &#8216;*.md&#8217;
+If the file name is the same, just use filename instead of 'pattern.ext' - if the file names are different, use a pattern like '*.md'
 
 #### Delete line X only if blank in all files in a folder
 

@@ -12,4 +12,4 @@ tags:
 
 ---
 I ran across [this article](https://boffosocko.com/2017/08/11/post-kinds-plugin-for-wordpress/"
- ) when searching to see if the &#8216;post kinds&#8217; plugin for WordPress allowed for a way to view posts by kind. And it does! While I was there, this post from Chris Aldrich kinda opened my eyes to the many cool things you can do with this. #IndieWeb !
+ ) when searching to see if the 'post kinds' plugin for WordPress allowed for a way to view posts by kind. And it does! While I was there, this post from Chris Aldrich kinda opened my eyes to the many cool things you can do with this. #IndieWeb !
