@@ -1,5 +1,6 @@
 ---
 title: "Search"
+date: 2010/01/01
 type: page
 exclude_search: true
 ---
