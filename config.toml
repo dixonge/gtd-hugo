@@ -52,7 +52,7 @@ NewContentEditor = "code"
   post = "/post/:slug/"
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "RSS"]
   blog = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
