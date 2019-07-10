@@ -1,14 +1,14 @@
 ---
 author: Glenn Dixon
 type: post
-date: 2019-07-04
+date: 2019-07-10
 url: apple-it-just-works
 tags:
   - notes
 
 ---
 
-A few things are converging here. The main motivator here is shifting back into travel mode. The amount of time we spend traveling will be increasing for the foreseeable future. So I've been trying to simplify, both in life in general and in all things digital. Another motivator is moving out of the budget mindset and focusing more on quality and solidity. Things that just work and don't require so much 'fiddling' just to get things done. Side benefit, less time helping my wife figure out how to do something that involves her phone/tablet/etc. 
+A few things are converging here. The main motivator is shifting back into travel mode. The amount of time we spend traveling will be increasing for the foreseeable future. So I've been trying to simplify, both in life in general and in all things digital. Another motivator is moving out of the budget mindset and focusing more on quality and solidity. Things that just work and don't require so much 'fiddling' just to get things done. Side benefit, less time helping my wife figure out how to do something that involves her phone/tablet/etc. 
 
 Serendipitously Apple just announced iOS 13 which includes a lot of nice improvements for the iPad. This caused me to think more about upgrading our hardware with a shift back to the Apple side of things. We already switched back to iPhones and I picked up an iPad for some music experiments a year ago. But now we want to do more. 
 
