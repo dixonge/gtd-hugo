@@ -3,15 +3,13 @@ title: Code Snippets
 author: Glenn Dixon
 type: page
 date: 2018-07-21T22:05:25+00:00
-mf2_syndication:
-  - 'a:0:{}'
-rs_like_voted_ips:
-  - 'a:1:{i:0;s:14:"187.201.65.186";}'
-rs_like_value:
-  - 1
 
 ---
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
+
+#### Rename folders by moving date from end to beginning of folder name
+
+    rename -v -- 's/^(.*)-(\d{4})-(\d{2})-(\d{2})/$2-$3-$4-$1/' *
 
 #### Rename photos with name followed by original file date/timestamp
 
