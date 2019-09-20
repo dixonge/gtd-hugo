@@ -7,6 +7,12 @@ date: 2018-07-21T22:05:25+00:00
 ---
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
 
+#### VS Code Regex to find line beginning with specific text and append to end of line
+
+    ^(find-this.*)
+    
+    $1append-this
+
 #### Rename folders by moving date from end to beginning of folder name
 
     rename -v -- 's/^(.*)-(\d{4})-(\d{2})-(\d{2})/$2-$3-$4-$1/' *
